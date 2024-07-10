@@ -1,0 +1,141 @@
+{
+  "Amazonas": [
+    "MAROA",
+    "MUNICIPIO AUTÓNOMO ALTO ORINOCO",
+    "PUERTO AYACUCHO",
+    "SAN CARLOS DE RÍO NEGRO",
+    "SAN FERNANDO DE ATABAPO",
+    "SAN JUAN DE MANAPIARE"
+  ],
+  "Anzoátegui": [
+    "ANACO",
+    "ARAGUA DE BARCELONA",
+    "BARCELONA",
+    "CANTAURA",
+    "EL TIGRE",
+    "MUNICIPIO JOSÉ GREGORIO MONAGAS",
+    "ONOTO",
+    "PUERTO LA CRUZ",
+    "PUERTO PÍRITU",
+    "SAN JOSÉ DE GUANIPA"
+  ],
+  "Aragua": [
+    "CAGUA",
+    "EL LIMÓN",
+    "LA VICTORIA",
+    "LAS TEJERÍAS",
+    "MARACAY",
+    "PALO NEGRO",
+    "SAN MATEO",
+    "SANTA RITA",
+    "TURMERO",
+    "VILLA DE CURA"
+  ],
+  "Barinas": ["ALTO BARINAS", "BARINAS", "BARINITAS", "MUNICIPIO BARINAS"],
+  "Bolívar": [
+    "CIUDAD BOLÍVAR",
+    "CIUDAD GUAYANA",
+    "MUNICIPIO PADRE PEDRO CHIEN",
+    "SANTA ELENA DE UAIRÉN",
+    "UPATA"
+  ],
+  "Carabobo": [
+    "GUACARA",
+    "GÜIGÜE",
+    "LOS GUAYOS",
+    "MARIARA",
+    "MORÓN",
+    "PUERTO CABELLO",
+    "SAN JOAQUÍN",
+    "TACARIGUA",
+    "TOCUYITO",
+    "VALENCIA"
+  ],
+  "Cojedes": ["SAN CARLOS", "TINAQUILLO"],
+  "Delta Amacuro": ["TUCUPITA"],
+  "Distrito Capital": ["CARACAS"],
+  "Falcón": [
+    "CHICHIRIVICHE",
+    "CORO",
+    "MUNICIPIO LOS TAQUES",
+    "MUNICIPIO MIRANDA",
+    "PUNTA CARDÓN",
+    "PUNTO FIJO",
+    "TUCACAS"
+  ],
+  "Guárico": [
+    "ALTAGRACIA DE ORITUCO",
+    "CALABOZO",
+    "SAN JUAN DE LOS MORROS",
+    "VALLE DE LA PASCUA",
+    "ZARAZA"
+  ],
+  "La Guaira": ["CARABALLEDA", "CATIA LA MAR", "LA GUAIRA", "MAIQUETÍA"],
+  "Lara": [
+    "BARQUISIMETO",
+    "CABUDARE",
+    "CARORA",
+    "EL TOCUYO",
+    "LOS RASTROJOS",
+    "QUÍBOR"
+  ],
+  "Mérida": ["EJIDO", "EL VIGÍA", "MÉRIDA", "MUCUMPIZ", "MUNICIPIO LIBERTADOR"],
+  "Miranda": [
+    "BARUTA",
+    "CARRIZAL",
+    "CAUCAGUITA",
+    "CAUCAGÜITO",
+    "CHACAO",
+    "CHARALLAVE",
+    "CÚA",
+    "EL CAFETAL",
+    "EL HATILLO",
+    "GUARENAS",
+    "GUATIRE",
+    "LA DOLORITA",
+    "LOS DOS CAMINOS",
+    "LOS TEQUES",
+    "OCUMARE DEL TUY",
+    "PETARE",
+    "SAN ANTONIO DE LOS ALTOS",
+    "SANTA TERESA DEL TUY"
+  ],
+  "Monagas": ["CARIPITO", "MATURÍN", "MUNICIPIO MATURÍN", "MUNICIPIO URACOA"],
+  "Nueva Esparta": ["JUAN GRIEGO", "LA ASUNCIÓN", "PORLAMAR"],
+  "Portuguesa": ["ACARIGUA", "ARAURE", "GUANARE", "VILLA BRUZUAL"],
+  "Sucre": ["CARÚPANO", "CUMANÁ", "GÜIRIA", "MUNICIPIO VALDEZ"],
+  "Táchira": [
+    "COLÓN",
+    "LA FRÍA",
+    "LA GRITA",
+    "MUNICIPIO JOSÉ MARÍA VARGAS",
+    "RUBIO",
+    "SAN ANTONIO DEL TÁCHIRA",
+    "SAN CRISTÓBAL",
+    "TÁRIBA"
+  ],
+  "Trujillo": [
+    "BOCONÓ",
+    "MUNICIPIO PAMPANITO",
+    "MUNICIPIO SAN RAFAEL DE CARVAJAL",
+    "TRUJILLO",
+    "VALERA"
+  ],
+  "Yaracuy": [
+    "CHIVACOA",
+    "MUNICIPIO INDEPENDENCIA",
+    "NIRGUA",
+    "SAN FELIPE",
+    "YARITAGUA"
+  ],
+  "Zulia": [
+    "CABIMAS",
+    "CIUDAD OJEDA",
+    "LA VILLA DEL ROSARIO",
+    "LAGUNILLAS",
+    "MACHIQUES",
+    "MARACAIBO",
+    "SAN CARLOS DEL ZULIA",
+    "SANTA RITA"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Alibori Department": ["BANIKOARA", "KANDI", "MALANVILLE"],
+  "Atakora Department": ["GUILMARO", "NATITINGOU", "TANGUIETA"],
+  "Atlantique Department": [
+    "ABOMEY-CALAVI",
+    "ALLADA",
+    "HÉVIÉ",
+    "HINVI",
+    "OUIDAH"
+  ],
+  "Borgou Department": [
+    "BEMBÈRÈKÈ",
+    "BÉTÉROU",
+    "NIKKI",
+    "PARAKOU",
+    "TCHAOUROU"
+  ],
+  "Collines Department": ["COMÉ", "DASSA-ZOUMÉ", "SAVALOU", "SAVÉ"],
+  "Donga Department": ["BASSILA", "COMMUNE OF DJOUGOU", "DJOUGOU"],
+  "Kouffo Department": ["DJAKOTOMEY", "DOGBO"],
+  "Littoral Department": ["COTONOU"],
+  "Mono Department": ["COMMUNE OF ATHIEME", "LOKOSSA"],
+  "Ouémé Department": ["PORTO-NOVO"],
+  "Plateau Department": ["KÉTOU", "POBÉ", "SAKÉTÉ"],
+  "Zou Department": ["ABOMEY", "BOHICON", "COMMUNE OF AGBANGNIZOUN", "COVÉ"]
+}

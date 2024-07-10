@@ -1,0 +1,117 @@
+{
+  "Boucle du Mouhoun Region": [
+    "BARANI",
+    "BOROMO",
+    "DÉDOUGOU",
+    "NOUNA",
+    "PROVINCE DE LA KOSSI",
+    "PROVINCE DES BALÉ",
+    "PROVINCE DES BANWA",
+    "PROVINCE DU MOUHOUN",
+    "PROVINCE DU NAYALA",
+    "PROVINCE DU SOUROU",
+    "SALANSO",
+    "TOMA",
+    "TOUGAN"
+  ],
+  "Cascades Region": [
+    "BANFORA",
+    "PROVINCE DE LA COMOÉ",
+    "PROVINCE DE LA LÉRABA",
+    "SINDOU"
+  ],
+  "Centre": ["KADIOGO PROVINCE", "OUAGADOUGOU"],
+  "Centre-Est Region": [
+    "GARANGO",
+    "KOUPÉLA",
+    "KOURITENGA PROVINCE",
+    "OUARGAYE",
+    "PROVINCE DU BOULGOU",
+    "PROVINCE DU KOULPÉLOGO",
+    "TENKODOGO"
+  ],
+  "Centre-Nord Region": [
+    "BOULSA",
+    "KAYA",
+    "KONGOUSSI",
+    "PROVINCE DU BAM",
+    "PROVINCE DU NAMENTENGA",
+    "PROVINCE DU SANMATENGA"
+  ],
+  "Centre-Ouest Region": [
+    "GOULOURÉ",
+    "KOKOLOGO",
+    "KOUDOUGOU",
+    "LÉO",
+    "PITMOAGA",
+    "PROVINCE DE LA SISSILI",
+    "PROVINCE DU BOULKIEMDÉ",
+    "PROVINCE DU SANGUIÉ",
+    "PROVINCE DU ZIRO",
+    "RÉO",
+    "SAPOUY"
+  ],
+  "Centre-Sud Region": [
+    "BAZEGA PROVINCE",
+    "KOMBISSIRI",
+    "MANGA",
+    "NAHOURI PROVINCE",
+    "PÔ",
+    "ZOUNDWEOGO PROVINCE"
+  ],
+  "Est Region": [
+    "BOGANDÉ",
+    "DIAPAGA",
+    "FADA N'GOURMA",
+    "GAYÉRI",
+    "GNAGNA PROVINCE",
+    "PAMA",
+    "PROVINCE DE LA KOMANDJOARI",
+    "PROVINCE DE LA KOMPIENGA",
+    "PROVINCE DE LA TAPOA",
+    "PROVINCE DU GOURMA"
+  ],
+  "Hauts-Bassins Region": [
+    "BOBO-DIOULASSO",
+    "HOUNDÉ",
+    "PROVINCE DU HOUET",
+    "PROVINCE DU KÉNÉDOUGOU",
+    "PROVINCE DU TUY"
+  ],
+  "Nord Region, Burkina Faso": [
+    "GOURCY",
+    "OUAHIGOUYA",
+    "PROVINCE DU LOROUM",
+    "PROVINCE DU PASSORÉ",
+    "PROVINCE DU YATENGA",
+    "PROVINCE DU ZONDOMA",
+    "TITAO",
+    "YAKO"
+  ],
+  "Plateau-Central Region": [
+    "BOUSSÉ",
+    "OUBRITENGA",
+    "PROVINCE DU GANZOURGOU",
+    "PROVINCE DU KOURWÉOGO",
+    "ZINIARÉ",
+    "ZORGO"
+  ],
+  "Sahel Region": [
+    "DJIBO",
+    "DORI",
+    "GOROM-GOROM",
+    "PROVINCE DE L’OUDALAN",
+    "PROVINCE DU SÉNO",
+    "PROVINCE DU SOUM",
+    "PROVINCE DU YAGHA"
+  ],
+  "Sud-Ouest Region": [
+    "BATIÉ",
+    "DANO",
+    "DIÉBOUGOU",
+    "PROVINCE DE LA BOUGOURIBA",
+    "PROVINCE DU IOBA",
+    "PROVINCE DU NOUMBIÈL",
+    "PROVINCE DU PONI"
+  ]
+}

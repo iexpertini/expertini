@@ -1,0 +1,53 @@
+{
+  "Erongo Region": [
+    "ARANDIS",
+    "HENTIESBAAI",
+    "KARIBIB",
+    "OMARURU",
+    "OTJIMBINGWE",
+    "SWAKOPMUND",
+    "SWAKOPMUND CONSTITUENCY",
+    "USAKOS",
+    "WALVIS BAY"
+  ],
+  "Hardap Region": [
+    "ARANOS",
+    "HOACHANAS",
+    "MALTAHÖHE",
+    "MARIENTAL",
+    "REHOBOTH"
+  ],
+  "Karas Region": [
+    "BETHANIE",
+    "KARASBURG",
+    "KEETMANSHOOP",
+    "LÜDERITZ",
+    "ORANJEMUND",
+    "TSES",
+    "WARMBAD"
+  ],
+  "Kavango East Region": ["RUNDU"],
+  "Khomas Region": ["KATUTURA", "WINDHOEK"],
+  "Kunene Region": [
+    "EPUPA CONSTITUENCY",
+    "KHORIXAS",
+    "KHORIXAS CONSTITUENCY",
+    "OPUWO",
+    "OPUWO CONSTITUENCY",
+    "OUTJO",
+    "SESFONTEIN CONSTITUENCY"
+  ],
+  "Ohangwena Region": ["OSHIKANGO"],
+  "Omaheke Region": ["GOBABIS"],
+  "Omusati Region": ["OKAHAO", "ONGANDJERA", "OUTAPI"],
+  "Oshana Region": ["ONDANGWA", "ONGWEDIVA", "OSHAKATI"],
+  "Oshikoto Region": ["OMUTHIYA", "TSUMEB"],
+  "Otjozondjupa Region": [
+    "GROOTFONTEIN",
+    "OKAHANDJA",
+    "OKAKARARA",
+    "OTAVI",
+    "OTJIWARONGO"
+  ],
+  "Zambezi Region": ["BAGANI", "KATIMA MULILO"]
+}

@@ -1,0 +1,39 @@
+{
+  "Bas-Uélé": ["AKETI", "BONDO", "BUTA"],
+  "Équateur": ["GEMENA", "LISALA", "LUKOLELA", "MBANDAKA"],
+  "Haut-Katanga": [
+    "HAUT KATANGA",
+    "KAMBOVE",
+    "KIPUSHI",
+    "LIKASI",
+    "LUBUMBASHI"
+  ],
+  "Haut-Lomami": ["BUKAMA", "KAMINA"],
+  "Haut-Uélé": ["ISIRO", "WAMBA", "WATSA"],
+  "Ituri": ["BUNIA"],
+  "Kasaï": ["ILEBO", "LUEBO", "MWEKA", "TSHIKAPA"],
+  "Kasaï Oriental": ["GANDAJIKA", "KABINDA", "MBUJI-MAYI"],
+  "Kinshasa": ["KINSHASA", "MASINA"],
+  "Kongo Central": [
+    "BOMA",
+    "KASANGULU",
+    "MATADI",
+    "MBANZA-NGUNGU",
+    "MOANDA",
+    "TSHELA"
+  ],
+  "Kwango": ["KASONGO-LUNDA"],
+  "Kwilu": ["BANDUNDU", "BULUNGU", "KIKWIT", "MANGAI"],
+  "Lomami": ["LUBAO", "MWENE-DITU"],
+  "Mai-Ndombe": ["BOLOBO", "INONGO", "MUSHIE", "NIOKI"],
+  "Maniema": ["KAMPENE", "KASONGO", "KINDU"],
+  "Mongala": ["BUMBA"],
+  "Nord-Kivu": ["BENI", "BUTEMBO", "GOMA", "SAKE"],
+  "Nord-Ubangi": ["BOSOBOLO", "BUSINGA", "GBADOLITE"],
+  "Sankuru": ["LODJA", "LUSAMBO"],
+  "Sud-Kivu": ["BUKAVU", "KABARE", "UVIRA"],
+  "Sud-Ubangi": ["BONGANDANGA", "LIBENGE"],
+  "Tanganyika": ["KABALO", "KALEMIE", "KONGOLO"],
+  "Tshopo": ["BASOKO", "KISANGANI", "YANGAMBI"],
+  "Tshuapa": ["BOENDE"]
+}

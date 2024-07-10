@@ -1,0 +1,92 @@
+{
+  "Capital Region": [
+    "ÁLFTANES",
+    "GARÐABÆR",
+    "HAFNARFJÖRÐUR",
+    "KJÓSARHREPPUR",
+    "KÓPAVOGUR",
+    "MOSFELLSBAER",
+    "MOSFELLSBÆR",
+    "REYKJAVÍK",
+    "SELTJARNARNES"
+  ],
+  "Eastern Region": [
+    "BORGARFJARÐARHREPPUR",
+    "BREIÐDALSHREPPUR",
+    "EGILSSTAÐIR",
+    "ESKIFJÖRÐUR",
+    "FJARÐABYGGÐ",
+    "FLJÓTSDALSHÉRAÐ",
+    "FLJÓTSDALSHREPPUR",
+    "HÖFN",
+    "NESKAUPSTAÐUR",
+    "REYÐARFJÖRÐUR"
+  ],
+  "Northeastern Region": [
+    "AKUREYRI",
+    "DALVÍK",
+    "DALVÍKURBYGGÐ",
+    "EYJAFJARÐARSVEIT",
+    "FJALLABYGGÐ",
+    "GRÝTUBAKKAHREPPUR",
+    "HÖRGÁRSVEIT",
+    "HÚSAVÍK",
+    "LANGANESBYGGÐ",
+    "LAUGAR",
+    "SIGLUFJÖRÐUR",
+    "SKÚTUSTAÐAHREPPUR",
+    "SVALBARÐSSTRANDARHREPPUR",
+    "TJÖRNESHREPPUR",
+    "ÞINGEYJARSVEIT"
+  ],
+  "Northwestern Region": [
+    "AKRAHREPPUR",
+    "HÚNAÞING VESTRA",
+    "SAUÐÁRKRÓKUR",
+    "SKAGABYGGÐ",
+    "SVEITARFÉLAGIÐ SKAGAFJÖRÐUR"
+  ],
+  "Southern Peninsula Region": [
+    "GARÐUR",
+    "GRINDAVÍK",
+    "KEFLAVÍK",
+    "REYKJANESBÆR",
+    "SANDGERÐI",
+    "VOGAR"
+  ],
+  "Southern Region": [
+    "ÁSAHREPPUR",
+    "BLÁSKÓGABYGGÐ",
+    "FLÓAHREPPUR",
+    "GRÍMSNES- OG GRAFNINGSHREPPUR",
+    "HRUNAMANNAHREPPUR",
+    "HVERAGERÐI",
+    "MÝRDALSHREPPUR",
+    "SELFOSS",
+    "SKAFTÁRHREPPUR",
+    "SKEIÐA- OG GNÚPVERJAHREPPUR",
+    "VESTMANNAEYJABÆR",
+    "VESTMANNAEYJAR",
+    "ÞORLÁKSHÖFN"
+  ],
+  "Western Region": [
+    "AKRANES",
+    "BORGARBYGGÐ",
+    "BORGARNES",
+    "DALABYGGÐ",
+    "EYJA- OG MIKLAHOLTSHREPPUR",
+    "HELGAFELLSSVEIT",
+    "HVALFJARÐARSVEIT",
+    "ÓLAFSVÍK",
+    "SKORRADALSHREPPUR",
+    "SNÆFELLSBÆR",
+    "STYKKISHÓLMUR"
+  ],
+  "Westfjords": [
+    "ÍSAFJARÐARBÆR",
+    "ÍSAFJÖRÐUR",
+    "REYKHÓLAHREPPUR",
+    "STRANDABYGGÐ",
+    "TÁLKNAFJARÐARHREPPUR"
+  ]
+}

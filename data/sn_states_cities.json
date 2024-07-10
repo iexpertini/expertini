@@ -1,0 +1,67 @@
+{
+  "Dakar": [
+    "DAKAR",
+    "DAKAR DEPARTMENT",
+    "GUÉDIAWAYE DEPARTMENT",
+    "MERMOZ BOABAB",
+    "N’DIAREME LIMAMOULAYE",
+    "PIKINE",
+    "PIKINE DEPARTMENT",
+    "RUFISQUE DEPARTMENT"
+  ],
+  "Diourbel Region": ["MBACKÉ", "MBAKÉ", "TIÉBO", "TOUBA"],
+  "Fatick": [
+    "DIOFIOR",
+    "FATICK DEPARTMENT",
+    "FOUNDIOUGNE",
+    "GUINGUINÉO",
+    "PASSI",
+    "POURHAM",
+    "SOKONE"
+  ],
+  "Kaffrine": ["KAFFRINE", "KOUNGHEUL"],
+  "Kaolack": ["GANDIAYE", "KAOLACK", "NDOFANE", "NIORO DU RIP"],
+  "Kédougou": [
+    "DÉPARTEMENT DE SALÉMATA",
+    "KÉDOUGOU",
+    "KÉDOUGOU DEPARTMENT",
+    "SARAYA"
+  ],
+  "Kolda": ["KOLDA", "KOLDA DEPARTMENT", "MARSASSOUM", "VÉLINGARA"],
+  "Louga": ["DARA", "GUÉOUL", "LINGUERE DEPARTMENT", "LOUGA", "NDIBÈNE DAHRA"],
+  "Matam": [
+    "DIAWARA",
+    "KANEL",
+    "MATAM",
+    "MATAM DEPARTMENT",
+    "OURO SOGUI",
+    "RANÉROU",
+    "SÉMÉ",
+    "WAOUNDÉ"
+  ],
+  "Saint-Louis": [
+    "GOLÉRÉ",
+    "NDIOUM",
+    "POLEL DIAOUBÉ",
+    "RICHARD-TOLL",
+    "ROSSO",
+    "SAINT-LOUIS"
+  ],
+  "Sédhiou": ["GOUDOMP DEPARTMENT", "SÉDHIOU"],
+  "Tambacounda Region": ["TAMBACOUNDA", "TAMBACOUNDA DEPARTMENT"],
+  "Thiès Region": [
+    "JOAL-FADIOUT",
+    "KAYAR",
+    "KHOMBOLE",
+    "MBOUR",
+    "MÉKHÉ",
+    "NGUÉKHOKH",
+    "POUT",
+    "THIÈS",
+    "THIÈS NONES",
+    "TIADIAYE",
+    "TIVAOUANE",
+    "WARANG"
+  ],
+  "Ziguinchor": ["ADÉANE", "BIGNONA", "OUSSOUYE", "TIONK ESSIL", "ZIGUINCHOR"]
+}

@@ -1,0 +1,29 @@
+{
+  "Ahal Region": ["ABADAN", "ANNAU", "ARÇABIL", "BAHARLY", "KAKA", "TEJEN"],
+  "Ashgabat": ["ASHGABAT"],
+  "Balkan Region": [
+    "BALKANABAT",
+    "BEREKET",
+    "GUMDAG",
+    "MAGTYMGULY",
+    "SERDAR",
+    "TÜRKMENBAŞY"
+  ],
+  "Daşoguz Region": [
+    "AKDEPE",
+    "BOLDUMSAZ",
+    "DAŞOGUZ",
+    "KÖNEÜRGENCH",
+    "TAGTA",
+    "YYLANLY"
+  ],
+  "Lebap Region": [
+    "ATAMYRAT",
+    "FARAP",
+    "GAZOJAK",
+    "GOWURDAK",
+    "SAÝAT",
+    "TÜRKMENABAT"
+  ],
+  "Mary Region": ["BAYRAMALY", "MARY", "SERHETABAT", "SEYDI", "YOLÖTEN"]
+}

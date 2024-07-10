@@ -1,0 +1,42 @@
+{
+  "Abu Dhabi Emirate": [
+    "ABU DHABI ISLAND AND INTERNAL ISLANDS CITY",
+    "ABU DHABI MUNICIPALITY",
+    "AL AIN CITY",
+    "AL AIN MUNICIPALITY",
+    "AL DHAFRA",
+    "AL SHAMKHAH CITY",
+    "AR RUWAYS",
+    "BANI YAS CITY",
+    "KHALIFAH A CITY",
+    "MUSAFFAH",
+    "MUZAYRI‘",
+    "ZAYED CITY"
+  ],
+  "Ajman Emirate": ["AJMAN", "AJMAN CITY", "MANAMA", "MASFOUT"],
+  "Dubai": ["DUBAI"],
+  "Fujairah": [
+    "AL FUJAIRAH CITY",
+    "AL FUJAIRAH MUNICIPALITY",
+    "DIBBA AL FUJAIRAH MUNICIPALITY",
+    "DIBBA AL-FUJAIRAH",
+    "DIBBA AL-HISN",
+    "REEF AL FUJAIRAH CITY"
+  ],
+  "Ras al-Khaimah": ["RAS AL KHAIMAH", "RAS AL KHAIMAH CITY"],
+  "Sharjah Emirate": [
+    "ADH DHAYD",
+    "AL BATAYIH",
+    "AL HAMRIYAH",
+    "AL MADAM",
+    "DHAID",
+    "DIBBA AL HESN",
+    "KALBA",
+    "KHAWR FAKKĀN",
+    "KHOR FAKKAN",
+    "MILEHAH",
+    "MURBAḨ",
+    "SHARJAH"
+  ],
+  "Umm al-Quwain": ["UMM AL QUWAIN", "UMM AL QUWAIN CITY"]
+}

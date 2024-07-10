@@ -1,0 +1,20 @@
+{
+  "Changhua": ["CHANGHUA", "YUANLIN"],
+  "Chiayi": ["CHIAYI", "PIZITOU", "CHIAYI COUNTY"],
+  "Hsinchu": ["HSINCHU", "HSINCHU COUNTY"],
+  "Hualien": ["HUALIEN", "HUALIEN CITY"],
+  "Kaohsiung": ["KAOHSIUNG"],
+  "Kinmen": ["JINCHENG", "KINMEN COUNTY"],
+  "Lienchiang": ["LIENCHIANG", "NANGAN"],
+  "Miaoli": ["MIAOLI"],
+  "Nantou": ["LUGU", "NANTOU", "PULI", "ZHONGXING NEW VILLAGE"],
+  "Penghu": ["MAGONG", "PENGHU COUNTY"],
+  "Pingtung": ["DONGGANG", "HENGCHUN", "PINGTUNG"],
+  "Taichung": ["TAICHUNG", "TAICHUNG CITY"],
+  "Tainan": ["TAINAN", "YUJING"],
+  "Taipei": ["BANQIAO", "JIUFEN", "TAIPEI", "TAIPEI CITY"],
+  "Taitung": ["TAITUNG", "TAITUNG CITY"],
+  "Taoyuan": ["DAXI", "TAOYUAN", "TAOYUAN CITY"],
+  "Yilan": ["YILAN"],
+  "Yunlin": ["DOULIU", "YUNLIN"]
+}

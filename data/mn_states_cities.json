@@ -1,0 +1,28 @@
+{
+  "Arkhangai Province": ["TSETSERLEG"],
+  "Bayan-Ölgii Province": ["ALTAY", "ÖLGII", "TSENGEL"],
+  "Bayankhongor Province": ["BAYANHONGOR"],
+  "Bulgan Province": ["BULGAN"],
+  "Darkhan-Uul Province": ["DARHAN"],
+  "Dornod Province": ["CHOIBALSAN", "EREENCAV"],
+  "Dundgovi Province": ["MANDALGOVI"],
+  "Govi-Altai Province": ["ALTAI"],
+  "Govisümber Province": ["CHOYR"],
+  "Khentii Province": ["UNDURKHAAN"],
+  "Khovd Province": ["KHOVD", "MÖST", "ÜYÖNCH"],
+  "Khövsgöl Province": ["HANH", "MURUN-KUREN", "TSENGEL", "TURT"],
+  "Ömnögovi Province": ["DALANDZADGAD", "HANHONGOR", "NOMGON SUM"],
+  "Orkhon Province": ["ERDENET"],
+  "Övörkhangai Province": [
+    "ARVAYHEER",
+    "HARHORIN",
+    "HOVD",
+    "KHARKHORIN",
+    "NARIYNTEEL"
+  ],
+  "Selenge Province": ["DZÜÜNHARAA", "SÜHBAATAR"],
+  "Sükhbaatar Province": ["BARUUN-URT"],
+  "Töv Province": ["DZUUNMOD", "MÖNGÖNMORĬT", "ULAANHUDAG", "ЗУУНМОД"],
+  "Uvs Province": ["ULAANGOM"],
+  "Zavkhan Province": ["ULIASTAY"]
+}

@@ -1,0 +1,17 @@
+{
+  "Arima": ["ARIMA"],
+  "Chaguanas": ["CHAGUANAS", "WARD OF CHAGUANAS"],
+  "Couva-Tabaquite-Talparo Regional Corporation": ["COUVA", "TABAQUITE"],
+  "Diego Martin Regional Corporation": ["PETIT VALLEY", "WARD OF DIEGO MARTIN"],
+  "Eastern Tobago": ["SCARBOROUGH"],
+  "Penal-Debe Regional Corporation": ["DEBE", "PEÑAL"],
+  "Point Fortin": ["POINT FORTIN"],
+  "Port of Spain": ["MUCURAPO", "PORT OF SPAIN"],
+  "Princes Town Regional Corporation": ["PRINCES TOWN"],
+  "San Fernando": ["MARABELLA", "MON REPOS", "SAN FERNANDO"],
+  "San Juan-Laventille Regional Corporation": ["LAVENTILLE"],
+  "Sangre Grande Regional Corporation": ["SANGRE GRANDE"],
+  "Siparia Regional Corporation": ["SIPARIA", "WARD OF SIPARIA"],
+  "Tunapuna-Piarco Regional Corporation": ["AROUCA", "PARADISE", "TUNAPUNA"],
+  "Western Tobago": ["RIO CLARO"]
+}

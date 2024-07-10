@@ -1,0 +1,12 @@
+{
+  "Eastern Province": ["KIBUNGO", "RWAMAGANA"],
+  "Kigali district": ["KIGALI"],
+  "Northern Province": ["BYUMBA", "MUSANZE"],
+  "Southern Province": [
+    "BUTARE",
+    "EGLISE CATHOLIQUE CENTRALE GIKO",
+    "GITARAMA",
+    "NZEGA"
+  ],
+  "Western Province": ["CYANGUGU", "GISENYI", "KIBUYE"]
+}

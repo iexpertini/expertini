@@ -1,0 +1,70 @@
+{
+  "Central Province": [
+    "CHIBOMBO",
+    "CHIBOMBO DISTRICT",
+    "KABWE",
+    "KAPIRI MPOSHI",
+    "MKUSHI",
+    "MUMBWA",
+    "SERENJE"
+  ],
+  "Copperbelt Province": [
+    "CHAMBISHI",
+    "CHILILABOMBWE",
+    "CHINGOLA",
+    "CHINGOLA DISTRICT",
+    "KALULUSHI",
+    "KATABA",
+    "KITWE",
+    "LUANSHYA",
+    "MPONGWE",
+    "MUFULIRA",
+    "NDOLA"
+  ],
+  "Eastern Province": ["CHADIZA", "CHIPATA", "LUNDAZI", "NYIMBA", "PETAUKE"],
+  "Luapula Province": ["KAWAMBWA", "MANSA", "MWENSE", "NCHELENGE", "SAMFYA"],
+  "Lusaka Province": ["CHONGWE", "KAFUE", "LUANGWA", "LUSAKA"],
+  "Muchinga Province": ["CHAMA", "CHINSALI", "ISOKA", "MPIKA", "NAKONDE"],
+  "Northern Province": [
+    "KAPUTA",
+    "KASAMA",
+    "LUWINGU",
+    "MBALA",
+    "MPOROKOSO",
+    "MPULUNGU",
+    "MUNGWI"
+  ],
+  "Northwestern Province": [
+    "KABOMPO",
+    "KALENGWA",
+    "KANSANSHI",
+    "KASEMPA",
+    "MUFUMBWE",
+    "MWINILUNGA",
+    "SOLWEZI",
+    "ZAMBEZI"
+  ],
+  "Southern Province": [
+    "CHOMA",
+    "GWEMBE",
+    "ITEZHI-TEZHI DISTRICT",
+    "LIVINGSTONE",
+    "MAAMBA",
+    "MAZABUKA",
+    "MONZE",
+    "NAKAMBALA",
+    "NAMWALA",
+    "SIAVONGA",
+    "SIAVONGA DISTRICT",
+    "SINAZONGWE"
+  ],
+  "Western Province": [
+    "KALABO",
+    "KAOMA",
+    "LIMULUNGA",
+    "LUKULU",
+    "MONGU",
+    "SENANGA",
+    "SESHEKE"
+  ]
+}

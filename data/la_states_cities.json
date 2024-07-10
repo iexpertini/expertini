@@ -1,0 +1,87 @@
+{
+  "Attapeu Province": [
+    "ATTAPEU",
+    "MUANG PHOUVONG",
+    "MUANG SAMAKHIXAI",
+    "MUANG SANAMXAI",
+    "MUANG SANXAI",
+    "MUANG XAISÉTTHA"
+  ],
+  "Bokeo Province": [
+    "BAN HOUAKHOUA",
+    "BAN HOUAYXAY",
+    "MUANG HOUAYXAY",
+    "MUANG MEUNG",
+    "MUANG PAKTHA",
+    "MUANG PHA OUDÔM",
+    "MUANG TÔNPHEUNG"
+  ],
+  "Bolikhamsai Province": ["BAN NAHIN", "PAKXAN"],
+  "Champasak Province": [
+    "CHAMPASAK",
+    "MUANG BACHIANGCHALEUNSOOK",
+    "MUANG CHAMPASAK",
+    "MUANG KHÔNG",
+    "MUANG MOUNLAPAMÔK",
+    "MUANG PAKXÉ",
+    "MUANG PAKXONG",
+    "MUANG PATHOUMPHON",
+    "MUANG PHÔNTHONG",
+    "MUANG SOUKHOUMA",
+    "MUANG XANASÔMBOUN",
+    "PAKSE",
+    "PAKXONG"
+  ],
+  "Houaphanh Province": ["XAM NEUA", "XAM NUA"],
+  "Khammouane Province": ["MUANG THAKHÈK", "THAKHÈK"],
+  "Luang Namtha Province": ["LUANG NAMTHA", "MUANG LOUANG NAMTHA"],
+  "Luang Prabang Province": ["LUANG PRABANG"],
+  "Oudomxay Province": ["MUANG XAY"],
+  "Phongsaly Province": ["PHÔNGSALI"],
+  "Sainyabuli Province": ["SAINYABULI"],
+  "Salavan Province": [
+    "MUANG KHÔNGXÉDÔN",
+    "MUANG LAKHONPHÉNG",
+    "MUANG LAONGAM",
+    "MUANG SAMOUAY",
+    "MUANG SARAVAN",
+    "MUANG TA-ÔY",
+    "MUANG TOUMLAN",
+    "MUANG VAPI",
+    "SALAVAN"
+  ],
+  "Savannakhet Province": [
+    "KAYSONE PHOMVIHANE",
+    "MUANG ALSAPHANGTHONG",
+    "MUANG ATSAPHAN",
+    "MUANG CHAMPHON",
+    "MUANG NONG",
+    "MUANG OUTHOUMPHON",
+    "MUANG PHIN",
+    "MUANG SONGKHON",
+    "MUANG THAPANGTHONG",
+    "MUANG VILABOULI",
+    "MUANG XAIBOULI",
+    "MUANG XAYPHOOTHONG",
+    "MUANG XÔNBOULI",
+    "SAVANNAKHET",
+    "THAPHALANXAY"
+  ],
+  "Sekong Province": [
+    "BAN THATÈNG",
+    "LAMAM",
+    "MUANG DAKCHUNG",
+    "MUANG KHALEUM",
+    "MUANG LAMAN",
+    "MUANG THATÈNG"
+  ],
+  "Vientiane Prefecture": ["VIENTIANE"],
+  "Vientiane Province": ["MUANG PHÔN-HÔNG", "VANGVIANG"],
+  "Xaisomboun Province": [
+    "ANOUVONG DISTRICT",
+    "LONGCHAENG",
+    "MUANG LONGXAN",
+    "MUANG THATHÔM"
+  ],
+  "Xiangkhouang Province": ["MUANG PHÔNSAVAN"]
+}

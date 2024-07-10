@@ -1,0 +1,33 @@
+{
+  "Bahr el Gazel": ["MOUSSORO"],
+  "Batha": ["ATI", "OUM HADJER"],
+  "Borkou": ["FAYA-LARGEAU"],
+  "Chari-Baguirmi": [
+    "BAGUIRMI DEPARTMENT",
+    "BOUSSO",
+    "CHARI DEPARTMENT",
+    "DABABA",
+    "GAOUI",
+    "LINIA",
+    "MANDJAFA",
+    "MASSENYA"
+  ],
+  "Ennedi-Ouest": ["FADA"],
+  "Guéra": ["BITKINE", "MELFI", "MONGO"],
+  "Hadjer-Lamis": ["BOKORO", "MASSAGUET", "MASSAKORY"],
+  "Kanem": ["MAO"],
+  "Lac": ["BOL"],
+  "Logone Occidental": ["BEÏNAMAR", "BENOY", "LAC WEY", "MOUNDOU"],
+  "Logone Oriental": ["BÉBÉDJA", "BÉBOTO", "DOBA"],
+  "Mandoul": ["GOUNDI", "KOUMRA", "MOÏSSALA"],
+  "Mayo-Kebbi Est": ["BONGOR", "GOUNOU GAYA", "GUELENDENG"],
+  "Mayo-Kebbi Ouest": ["MBOURSOU LÉRÉ", "PALA"],
+  "Moyen-Chari": ["KYABÉ", "SARH"],
+  "N'Djamena": ["N'DJAMENA"],
+  "Ouaddaï": ["ABÉCHÉ", "ADRÉ", "GOZ BÉÏDA"],
+  "Salamat": ["AM TIMAN"],
+  "Sila": ["GOZ BEÏDA"],
+  "Tandjilé": ["BÉRÉ", "KELO", "LAÏ"],
+  "Tibesti": ["AOZOU"],
+  "Wadi Fira": ["BILTINE", "IRIBA"]
+}

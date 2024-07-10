@@ -1,0 +1,91 @@
+{
+  "Chagang Province": ["CHANGGANG-GUN", "CHASŎNG", "KANGGYE", "MANP’O"],
+  "Kangwon Province": [
+    "ANBYŎN-ŬP",
+    "HOEYANG",
+    "KOSAN",
+    "T’ONGCH’ŎN-ŬP",
+    "WŎNSAN"
+  ],
+  "North Hamgyong Province": [
+    "AOJI",
+    "CHONGJIN",
+    "HAU-RI",
+    "HOEMUL-LI",
+    "HOERYŎNG",
+    "KILJU",
+    "KIMCH’AEK-SI",
+    "KOMUSAN IL-TONG",
+    "KYŎNGSŎNG",
+    "KYŎNGWŎN",
+    "MUSAN-ŬP",
+    "NAMYANG-DONG",
+    "NANAM",
+    "ONSŎNG",
+    "PURYŎNG",
+    "SŬNGAM-NODONGJAGU"
+  ],
+  "North Hwanghae Province": [
+    "ANAK",
+    "HŬKKYO-RI",
+    "HWANGJU-ŬP",
+    "KOKSAN",
+    "SARIWŎN",
+    "SINMAK",
+    "SONGNIM"
+  ],
+  "North Pyongan Province": [
+    "CHŎNGJU",
+    "CHŎNGJU-GUN",
+    "KUJANG-ŬP",
+    "KUSŎNG",
+    "KWAKSAN",
+    "PANGHYŎN-DONG",
+    "PUKCHIL-LODONGJAGU",
+    "SAKCHU-ŬP",
+    "SINŬIJU",
+    "ŬIJU",
+    "YŎMJU-ŬP",
+    "YŎNGBYŎN"
+  ],
+  "Pyongyang": [
+    "CHUNGHWA",
+    "KANGDONG-ŬP",
+    "PYONGYANG",
+    "SUNAN",
+    "SŬNGHO 1-TONG"
+  ],
+  "Rason": ["SŎNBONG", "UNGSANG-NODONGJAGU"],
+  "Ryanggang Province": ["HYESAN", "HYESAN-DONG", "KAPSAN-ŬP", "SŬNGJIBAEGAM"],
+  "South Hamgyong Province": [
+    "HAMHŬNG",
+    "HONGWŎN",
+    "HŬNGNAM",
+    "IWŎN-ŬP",
+    "KOWŎN-ŬP",
+    "SAMHO-RODONGJAGU",
+    "SINSANG-NI",
+    "YŎNGGWANG-ŬP",
+    "YUKTAE-DONG"
+  ],
+  "South Hwanghae Province": [
+    "AYANG-NI",
+    "CHAERYŎNG-ŬP",
+    "CHANGYŎN",
+    "HAEJU",
+    "KAESŎNG",
+    "ONGJIN",
+    "PYŎKSŎNG-ŬP",
+    "YŎNAN-ŬP"
+  ],
+  "South Pyongan Province": [
+    "ANJU",
+    "NAMP’O",
+    "P’YŎNGSŎNG",
+    "SANGSŎNG-NI",
+    "SIL-LI",
+    "SINANJU",
+    "SUNCH’ŎN",
+    "YONGGANG-ŬP"
+  ]
+}

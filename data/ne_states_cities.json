@@ -1,0 +1,86 @@
+{
+  "Agadez Region": [
+    "AGADEZ",
+    "ALAGHSAS",
+    "ARLIT",
+    "BILMA",
+    "DÉPARTEMENT DE BILMA",
+    "DÉPARTEMENT DE TCHIROZÉRINE"
+  ],
+  "Diffa Region": [
+    "DÉPARTEMENT DE DIFFA",
+    "DÉPARTEMENT DE MAÏNÉ-SOROA",
+    "DÉPARTEMENT DE NGUIGMI",
+    "DIFFA",
+    "MAÏNÉ SOROA",
+    "NGUIGMI"
+  ],
+  "Dosso Region": [
+    "BOBOYE DEPARTMENT",
+    "DÉPARTEMENT DE DOGONDOUTCHI",
+    "DÉPARTEMENT DE DOSSO",
+    "DÉPARTEMENT DE GAYA",
+    "DÉPARTEMENT DE LOGA",
+    "DOGONDOUTCHI",
+    "DOSSO",
+    "GAYA"
+  ],
+  "Maradi Region": [
+    "AGUIÉ",
+    "DAKORO",
+    "DÉPARTEMENT D’AGUIÉ",
+    "DÉPARTEMENT DE DAKORO",
+    "DÉPARTEMENT DE MAYAHI",
+    "DÉPARTEMENT DE TESSAOUA",
+    "GUIDAN ROUMDJI DEPARTMENT",
+    "MADAROUNFA",
+    "MARADI",
+    "MAYAHI",
+    "TESSAOUA",
+    "TIBIRI"
+  ],
+  "Tahoua Region": [
+    "ABALAK",
+    "BIRNI N KONNI",
+    "BOUZA",
+    "DÉPARTEMENT D' ILLÉLA",
+    "DÉPARTEMENT DE BIRNI NKONNI",
+    "DÉPARTEMENT DE BOUZA",
+    "DÉPARTEMENT DE KEÏTA",
+    "DÉPARTEMENT DE MADAOUA",
+    "DÉPARTEMENT DE TAHOUA",
+    "DÉPARTEMENT DE TCHIN-TABARADEN",
+    "ILLÉLA",
+    "KEÏTA",
+    "MADAOUA",
+    "TAHOUA",
+    "TCHINTABARADEN"
+  ],
+  "Tillabéri Region": [
+    "AYOROU",
+    "BALLEYARA",
+    "DÉPARTEMENT DE FILINGUÉ",
+    "DÉPARTEMENT DE OUALLAM",
+    "DÉPARTEMENT DE SAY",
+    "FILINGUÉ",
+    "KOLLO",
+    "KOLLO DEPARTMENT",
+    "OUALLAM",
+    "SAY",
+    "TÉRA",
+    "TERA DEPARTMENT",
+    "TILLABÉRI",
+    "TILLABERI DEPARTMENT"
+  ],
+  "Zinder Region": [
+    "DÉPARTEMENT DE GOURÉ",
+    "DÉPARTEMENT DE KANTCHÉ",
+    "DÉPARTEMENT DE TÂNOUT",
+    "GOURÉ",
+    "MAGARIA",
+    "MATAMEY",
+    "MIRRIAH",
+    "TANOUT",
+    "ZINDER"
+  ]
+}

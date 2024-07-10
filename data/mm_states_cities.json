@@ -1,0 +1,73 @@
+{
+  "Ayeyarwady Region": [
+    "BOGALE",
+    "HINTHADA",
+    "KYAIKLAT",
+    "MAUBIN",
+    "MAWLAMYINEGYUNN",
+    "MYANAUNG",
+    "NYAUNGDON",
+    "PATHEIN",
+    "PYAPON",
+    "WAKEMA"
+  ],
+  "Bago": [
+    "BAGO",
+    "LETPANDAN",
+    "NYAUNGLEBIN",
+    "PAUNGDE",
+    "PYAY",
+    "PYU",
+    "TAUNGOO",
+    "THANATPIN",
+    "THARYARWADY"
+  ],
+  "Chin State": ["FALAM", "HAKHA"],
+  "Kachin State": ["BHAMO", "MYITKYINA"],
+  "Kayah State": ["LOIKAW"],
+  "Kayin State": [
+    "DELLOK",
+    "HPA-AN",
+    "KLONHTOUG",
+    "KYAIN SEIKGYI TOWNSHIP",
+    "MIKENAUNGEA",
+    "MYAWADI",
+    "PULEI",
+    "TAGONDAING",
+    "TAMOOWOUG"
+  ],
+  "Magway Region": [
+    "CHAUK",
+    "MAGWAY",
+    "MINBU",
+    "MYAYDO",
+    "PAKOKKU",
+    "TAUNGDWINGYI",
+    "THAYETMYO",
+    "YENANGYAUNG"
+  ],
+  "Mandalay Region": [
+    "KYAUKSE",
+    "MANDALAY",
+    "MEIKTILA",
+    "MOGOK",
+    "MYINGYAN",
+    "NYAUNGSHWE",
+    "PYIN OO LWIN",
+    "YAMETHIN"
+  ],
+  "Mon State": [
+    "KYAIKKAMI",
+    "KYAIKTO",
+    "MARTABAN",
+    "MAWLAMYINE",
+    "MUDON",
+    "THATON"
+  ],
+  "Naypyidaw Union Territory": ["NAY PYI TAW", "PYINMANA"],
+  "Rakhine State": ["SITTWE"],
+  "Sagaing Region": ["MAWLAIK", "MONYWA", "SAGAING", "SHWEBO"],
+  "Shan State": ["LASHIO", "TACHILEK", "TAUNGGYI"],
+  "Tanintharyi Region": ["DAWEI", "KAWTHOUNG", "MYEIK"],
+  "Yangon Region": ["KANBE", "KAYAN", "SYRIAM", "THONGWA", "TWANTE", "YANGON"]
+}

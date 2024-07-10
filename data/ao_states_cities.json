@@ -1,0 +1,33 @@
+{
+  "Bengo Province": ["CAXITO"],
+  "Benguela Province": ["BENGUELA", "CATUMBELA", "LOBITO"],
+  "Bié Province": ["CAMACUPA", "CATABOLA", "CHISSAMBA", "CUITO"],
+  "Cabinda Province": ["CABINDA"],
+  "Cuando Cubango Province": ["MENONGUE"],
+  "Cuanza Norte Province": ["CAMABATELA", "N’DALATANDO"],
+  "Cuanza Sul": ["QUIBALA", "SUMBE", "UACU CUNGO"],
+  "Cunene Province": ["ONDJIVA"],
+  "Huambo Province": ["CAÁLA", "CHELA", "HUAMBO", "LONGONJO"],
+  "Huíla Province": [
+    "CACONDA",
+    "CALUQUEMBE",
+    "CHIBIA",
+    "CHICOMBA",
+    "CHIPINDO",
+    "CUVANGO",
+    "GAMBOS",
+    "HUMPATA",
+    "JAMBA",
+    "LUBANGO",
+    "MATALA",
+    "QUILENGUES",
+    "QUIPUNGO"
+  ],
+  "Luanda Province": ["BELAS", "ICOLO E BENGO", "LUANDA"],
+  "Lunda Norte Province": ["LUCAPA"],
+  "Lunda Sul Province": ["CAZAJI", "SAURIMO"],
+  "Malanje Province": ["MALANJE"],
+  "Moxico Province": ["LÉUA", "LUAU", "LUENA", "LUMEJE"],
+  "Uíge Province": ["UÍGE"],
+  "Zaire Province": ["MBANZA CONGO", "N'ZETO", "SOIO"]
+}

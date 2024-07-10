@@ -1,0 +1,43 @@
+{
+  "Bamako": ["BAMAKO"],
+  "Gao Region": ["ANSONGO", "CERCLE DE BOUREM", "GAO", "GAO CERCLE", "INÉKAR"],
+  "Kayes Region": ["BAFOULABÉ", "KAYES", "KITA", "KOKOFATA", "SAGALO"],
+  "Kidal Region": ["ABEÏBARA", "CERCLE D’ABEÏBARA", "KIDAL"],
+  "Koulikoro Region": ["BANAMBA", "KANGABA", "KATI", "KOLOKANI", "KOULIKORO"],
+  "Mopti Region": [
+    "BANDIAGARA",
+    "DJÉNNÉ",
+    "DOUENTZA",
+    "DOUENTZA CERCLE",
+    "MOPTI",
+    "TÉNENKOU"
+  ],
+  "Ségou Region": [
+    "BAROUELI",
+    "CERCLE DE SAN",
+    "KÉ-MACINA",
+    "KINMPARANA",
+    "MARKALA",
+    "SAN",
+    "SÉGOU",
+    "SOKOLO"
+  ],
+  "Sikasso Region": [
+    "BOUGOUNI",
+    "KOLONDIÉBA",
+    "KOUTIALA",
+    "KOUTIALA CERCLE",
+    "NTOSSONI",
+    "SIKASSO",
+    "YOROSSO"
+  ],
+  "Tombouctou Region": [
+    "ARAOUANE",
+    "CERCLE DE GOUNDAM",
+    "DIRE",
+    "GOUNDAM",
+    "GOURMA-RHAROUS CERCLE",
+    "NIAFUNKÉ",
+    "TIMBUKTU"
+  ]
+}

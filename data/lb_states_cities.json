@@ -1,0 +1,24 @@
+{
+  "Akkar": ["CAZA DE AAKKAR"],
+  "Baalbek-Hermel": ["BAALBEK", "CAZA DE BAALBEK"],
+  "Beirut": ["BEIRUT", "RA’S BAYRŪT"],
+  "Beqaa": ["AANJAR", "ZAHLÉ"],
+  "Mount Lebanon": [
+    "BAABDA",
+    "BHAMDOUN",
+    "BHAMDOÛN EL MHATTA",
+    "CAZA DE BAABDA",
+    "JBAÏL",
+    "JOUNIEH"
+  ],
+  "Nabatieh": [
+    "AIN EBEL",
+    "CAZA DE BENT JBAÏL",
+    "CAZA DE NABATÎYÉ",
+    "HABBOÛCH",
+    "MARJAYOÛN",
+    "NABATÎYÉ ET TAHTA"
+  ],
+  "North": ["BATROÛN", "BCHARRÉ", "TRIPOLI"],
+  "South": ["EN NÂQOÛRA", "GHAZIEH", "SIDON", "TYRE"]
+}

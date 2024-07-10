@@ -1,0 +1,62 @@
+{
+  "Boké Region": [
+    "BOFFA",
+    "BOKÉ",
+    "BOKE PREFECTURE",
+    "FRIA",
+    "GAOUAL",
+    "GAOUAL PREFECTURE",
+    "KIMBO",
+    "KOUNDARA",
+    "KOUNDARA PREFECTURE",
+    "SANGUÉYA",
+    "YOUKOUNKOUN"
+  ],
+  "Conakry": ["CAMAYENNE", "CONAKRY"],
+  "Kankan Region": [
+    "KANKAN",
+    "KANKAN PREFECTURE",
+    "KÉROUANÉ",
+    "KEROUANE PREFECTURE",
+    "KOUROUSSA",
+    "MANDIANA",
+    "MANDIANA PREFECTURE",
+    "SIGUIRI",
+    "SIGUIRI PREFECTURE",
+    "TOKONOU"
+  ],
+  "Kindia Region": [
+    "COYAH",
+    "DUBRÉKA",
+    "FORÉCARIAH",
+    "KINDIA",
+    "PRÉFECTURE DE DUBRÉKA",
+    "PRÉFECTURE DE FORÉCARIAH",
+    "TÉLIMÉLÉ",
+    "TELIMELE PREFECTURE",
+    "TONDON"
+  ],
+  "Labé Region": [
+    "KOUBIA",
+    "LABÉ",
+    "LABE PREFECTURE",
+    "LÉLOUMA",
+    "LELOUMA PREFECTURE",
+    "MALI",
+    "MALI PREFECTURE",
+    "TOUGUÉ",
+    "TOUGUE PREFECTURE"
+  ],
+  "Mamou Region": ["DALABA", "MAMOU", "MAMOU PREFECTURE", "PITA"],
+  "Nzérékoré Region": [
+    "BEYLA",
+    "BEYLA PREFECTURE",
+    "GUECKEDOU",
+    "LOLA",
+    "MACENTA",
+    "NZÉRÉKORÉ",
+    "NZEREKORE PREFECTURE",
+    "PRÉFECTURE DE GUÉKÉDOU",
+    "YOMOU"
+  ]
+}

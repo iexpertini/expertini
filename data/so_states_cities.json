@@ -1,0 +1,25 @@
+{
+  "Bakool": ["TAYEEGLOW", "WAAJID", "XUDDUR", "YEED"],
+  "Banaadir": ["MOGADISHU"],
+  "Bari": [
+    "BANDARBEYLA",
+    "BARGAAL",
+    "BEREEDA",
+    "BOSASO",
+    "CALUULA",
+    "ISKUSHUBAN",
+    "QANDALA"
+  ],
+  "Bay": ["BAIDOA", "BUURHAKABA"],
+  "Galguduud": ["CEELBUUR", "CEELDHEER", "DHUUSAMARREEB"],
+  "Gedo": ["BAARDHEERE", "GARBAHAARREY", "LUUQ"],
+  "Hiran": ["BELEDWEYNE", "BUULOBARDE", "JALALAQSI"],
+  "Lower Juba": ["BUUR GAABO", "JAMAAME", "KISMAYO"],
+  "Lower Shebelle": ["AFGOOYE", "MARKA", "QORYOOLEY", "WANLAWEYN"],
+  "Middle Juba": ["DUJUUMA", "JILIB", "SAACOW"],
+  "Middle Shebelle": ["CADALE", "JAWHAR", "MAHADDAYWEYNE"],
+  "Mudug": ["GAALKACYO", "HOBYO", "XARARDHEERE"],
+  "Nugal": ["EYL", "GAROOWE"],
+  "Sanaag Region": ["CEERIGAABO", "LAS KHOREY"],
+  "Togdheer Region": ["BURAO", "CEEK", "OODWEYNE"]
+}

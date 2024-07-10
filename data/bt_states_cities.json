@@ -1,0 +1,20 @@
+{
+  "Bumthang District": ["JAKAR"],
+  "Chukha District": ["DAPHU", "PHUNTSHOLING", "TSIMASHAM"],
+  "Dagana District": ["DAGA", "WANGDUE PHODRANG"],
+  "Gasa District": ["GASA"],
+  "Haa District": ["HA"],
+  "Lhuntse District": ["LHUENTSE"],
+  "Mongar District": ["MONGAR"],
+  "Paro District": ["PARO"],
+  "Pemagatshel District": ["PEMAGATSHEL"],
+  "Punakha District": ["PAJO", "PUNĀKHA"],
+  "Samdrup Jongkhar District": ["SAMDRUP JONGKHAR"],
+  "Samtse District": ["SAMTSE"],
+  "Sarpang District": ["SARPANG"],
+  "Thimphu District": ["THIMPHU"],
+  "Trashigang District": ["TRASHIGANG"],
+  "Tsirang District": ["TRONGSA", "TSIRANG"],
+  "Wangdue Phodrang District": ["TRASHI YANGTSE"],
+  "Zhemgang District": ["PANBANG", "SHEMGANG"]
+}

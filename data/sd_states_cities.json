@@ -1,0 +1,60 @@
+{
+  "Al Jazirah": [
+    "AL HASAHEISA",
+    "AL HILĀLIYYA",
+    "AL KIREMIT AL ‘ARAKIYYĪN",
+    "AL MANĀQIL",
+    "AL MASALLAMIYYA",
+    "WAD MEDANI",
+    "WAD RĀWAH"
+  ],
+  "Al Qadarif": ["AL ḨAWĀTAH", "AL QADARIF", "DOKA"],
+  "Blue Nile": ["AD-DAMAZIN", "AR RUSERIS", "KURMUK"],
+  "Central Darfur": ["ZALINGEI"],
+  "East Darfur": ["EL DAEIN"],
+  "Kassala": ["AROMA", "KASSALA", "WAGAR"],
+  "Khartoum": ["KHARTOUM", "OMDURMAN"],
+  "North Darfur": ["EL FASHER", "KUTUM", "UMM KADDADAH"],
+  "North Kordofan": ["AR RAHAD", "BĀRAH", "EL OBEID", "UMM RUWABA"],
+  "Northern": [
+    "AD DABBAH",
+    "ARGO",
+    "DONGOLA",
+    "KARMAH AN NUZUL",
+    "KURAYMAH",
+    "MEROWE"
+  ],
+  "Red Sea": ["GEBEIT", "PORT SUDAN", "SAWĀKIN", "TOKĀR"],
+  "River Nile": [
+    "ATBARA",
+    "BERBER",
+    "ED DAMER",
+    "EL BAUGA",
+    "EL MATAMA",
+    "SHENDI"
+  ],
+  "Sennar": [
+    "AD DINDAR",
+    "AS SŪKĪ",
+    "JALQANI",
+    "KINĀNA",
+    "MAIURNO",
+    "SINGA",
+    "SINNAR"
+  ],
+  "South Darfur": ["GEREIDA", "NYALA"],
+  "South Kordofan": ["ABU JIBEHA", "AL FŪLAH", "DILLING", "KADUGLI", "TALODI"],
+  "West Darfur": ["GENEINA"],
+  "West Kordofan": ["ABŪ ZABAD", "AL LAGOWA", "AL MIJLAD", "AN NUHŪD"],
+  "White Nile": [
+    "AD DOUIEM",
+    "AL KAWA",
+    "AL QIŢENA",
+    "KOSTI",
+    "MARABBA",
+    "RABAK",
+    "TANDALTĪ",
+    "UM JAR AL GHARBIYYA",
+    "WAD AZ ZĀKI"
+  ]
+}

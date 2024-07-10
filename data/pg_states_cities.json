@@ -1,0 +1,109 @@
+{
+  "Bougainville": [
+    "ARAWA",
+    "CENTRAL BOUGAINVILLE",
+    "KIETA",
+    "NORTH BOUGAINVILLE",
+    "PANGUNA",
+    "SOUTH BOUGAINVILLE"
+  ],
+  "Central Province": ["ABAU", "GOILALA", "KAIRUKU-HIRI", "RIGO"],
+  "Chimbu Province": [
+    "CHUAVE",
+    "GUMINE",
+    "KARIMUI NOMANE",
+    "KEROWAGI",
+    "KUNDIAWA",
+    "SINASINA YONGGAMUGL"
+  ],
+  "East New Britain": ["GAZELLE", "KOKOPO", "POMIO", "RABAUL"],
+  "Eastern Highlands Province": [
+    "DAULO",
+    "GOROKA",
+    "HENGANOFI",
+    "KAINANTU",
+    "LUFA",
+    "OBURA WONENARA",
+    "OKAPA",
+    "UNGGAI BENA"
+  ],
+  "Enga Province": [
+    "KANDEP",
+    "KOMPIAM AMBUM",
+    "LAGAIP PORGERA",
+    "PORGERA",
+    "WABAG",
+    "WAPENAMANDA"
+  ],
+  "Gulf": ["KEREMA", "KIKORI"],
+  "Hela": ["KOMO MARGARIMA", "KOROBA-LAKE KOPIAGO", "TARI", "TARI PORI"],
+  "Jiwaka Province": ["ANGALIMP SOUTH WAHGI", "JIMI", "NORTH WAHGI"],
+  "Madang Province": [
+    "BOGIA",
+    "MADANG",
+    "MIDDLE RAMU",
+    "RAI COAST",
+    "SUMKAR",
+    "USINO BUNDI"
+  ],
+  "Manus Province": ["LORENGAU", "MANUS"],
+  "Milne Bay Province": [
+    "ALOTAU",
+    "ESA’ALA",
+    "KIRIWINA GOODENOUGH",
+    "SAMARAI",
+    "SAMARAI MURUA"
+  ],
+  "Morobe Province": [
+    "BULOLO",
+    "FINSCHHAFEN",
+    "HUON GULF",
+    "KABWUM",
+    "LAE",
+    "MARKHAM",
+    "MENYAMYA",
+    "NAWAE",
+    "TEWAI SIASSI",
+    "WAU"
+  ],
+  "New Ireland Province": ["KAVIENG", "NAMATANAI"],
+  "Oro Province": ["IJIVITARI", "KOKODA", "POPONDETTA", "SOHE"],
+  "Port Moresby": ["NATIONAL CAPITAL DISTRICT", "PORT MORESBY"],
+  "Sandaun Province": [
+    "AITAPE",
+    "AITAPE LUMI",
+    "NUKU",
+    "TELEFOMIN",
+    "VANIMO",
+    "VANIMO GREEN"
+  ],
+  "Southern Highlands Province": [
+    "IALIBU",
+    "IALIBU PANGIA",
+    "IMBONGGU",
+    "KAGUA ERAVE",
+    "MENDI",
+    "NIPA KUTUBU"
+  ],
+  "West New Britain Province": [
+    "KANDRIAN",
+    "KANDRIAN GLOUCESTER",
+    "KIMBE",
+    "TALASEA"
+  ],
+  "Western Highlands Province": [
+    "BAIYER MUL",
+    "DEI",
+    "HAGEN",
+    "MOUNT HAGEN",
+    "TAMBUL NEBILYER"
+  ],
+  "Western Province": [
+    "DARU",
+    "KIUNGA",
+    "MIDDLE FLY",
+    "MOREHEAD",
+    "NORTH FLY",
+    "SOUTH FLY"
+  ]
+}

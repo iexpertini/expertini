@@ -1,0 +1,23 @@
+{
+  "Saint Croix": [
+    "CHRISTIANSTED",
+    "EAST END",
+    "FREDERIKSTED",
+    "GOOD HOPE",
+    "NORTHCENTRAL",
+    "NORTHWEST",
+    "SION FARM",
+    "SOUTHCENTRAL",
+    "SOUTHWEST"
+  ],
+  "Saint John": ["CENTRAL", "CORAL BAY", "CRUZ BAY", "EAST END"],
+  "Saint Thomas": [
+    "CHARLOTTE AMALIE",
+    "EAST END",
+    "NORTHSIDE",
+    "SOUTHSIDE",
+    "TUTU",
+    "WATER ISLAND",
+    "WEST END"
+  ]
+}

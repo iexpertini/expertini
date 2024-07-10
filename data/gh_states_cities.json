@@ -1,0 +1,135 @@
+{
+  "Ahafo": [
+    "ASUNAFO NORTH",
+    "ASUNAFO SOUTH",
+    "ASUTIFI NORTH",
+    "ASUTIFI SOUTH",
+    "TANO NORTH",
+    "TANO SOUTH"
+  ],
+  "Ashanti": [
+    "AGOGO",
+    "BEKWAI",
+    "EJURA",
+    "KONONGO",
+    "KUMASI",
+    "MAMPONG",
+    "OBUASE",
+    "TAFO"
+  ],
+  "Bono": [
+    "BANDA",
+    "BEREKUM EAST",
+    "BEREKUM WEST",
+    "DORMAA CENTRAL",
+    "DORMAA EAST",
+    "DORMAA WEST",
+    "JAMAN NORTH",
+    "JAMAN SOUTH",
+    "SUNYANI",
+    "SUNYANI WEST",
+    "TAIN",
+    "WENCHI"
+  ],
+  "Bono East": [
+    "ATEBUBU-AMANTIN",
+    "KINTAMPO NORTH",
+    "KINTAMPO SOUTH",
+    "NKORANZA NORTH",
+    "NKORANZA SOUTH",
+    "PRU EAST",
+    "PRU WEST",
+    "SENE EAST",
+    "SENE WEST",
+    "TECHIMAN",
+    "TECHIMAN NORTH"
+  ],
+  "Central": [
+    "APAM",
+    "CAPE COAST",
+    "DUNKWA",
+    "ELMINA",
+    "FOSO",
+    "KASOA",
+    "MUMFORD",
+    "SALTPOND",
+    "SWEDRU",
+    "WINNEBA"
+  ],
+  "Eastern": [
+    "ABURI",
+    "AKIM ODA",
+    "AKIM SWEDRU",
+    "AKROPONG",
+    "AKWATIA",
+    "ASAMANKESE",
+    "BEGORO",
+    "KIBI",
+    "KOFORIDUA",
+    "MPRAESO",
+    "NSAWAM",
+    "SUHUM"
+  ],
+  "Greater Accra": [
+    "ACCRA",
+    "ATSIAMAN",
+    "DOME",
+    "GBAWE",
+    "MEDINA ESTATES",
+    "NUNGUA",
+    "TEMA",
+    "TESHI OLD TOWN"
+  ],
+  "North East": [
+    "BUNKPURUGU-NYAKPANDURI",
+    "CHEREPONI",
+    "EAST MAMPRUSI",
+    "MAMPRUGU-MOAGDURI",
+    "WEST MAMPRUSI",
+    "YUNYOO-NASUAN"
+  ],
+  "Northern": ["KPANDAE", "SALAGA", "SAVELUGU", "TAMALE", "YENDI"],
+  "Oti": [
+    "BIAKOYE",
+    "JASIKAN",
+    "KADJEBI",
+    "KRACHI EAST",
+    "KRACHI NCHUMURU",
+    "KRACHI WEST",
+    "NKWANTA NORTH",
+    "NKWANTA SOUTH"
+  ],
+  "Savannah": [
+    "BOLE",
+    "CENTRAL GONJA",
+    "EAST GONJA",
+    "NORTH EAST GONJA",
+    "NORTH GONJA",
+    "SAWLA-TUNA-KALBA",
+    "WEST GONJA"
+  ],
+  "Upper East": ["BAWKU", "BOLGATANGA", "NAVRONGO"],
+  "Upper West": ["WA"],
+  "Volta": ["AFLAO", "ANLOGA", "HO", "HOHOE", "KETA", "KETE KRACHI", "KPANDU"],
+  "Western": [
+    "ABOSO",
+    "AXIM",
+    "BIBIANI",
+    "PRESTEA",
+    "SEKONDI-TAKORADI",
+    "SHAMA JUNCTION",
+    "TAKORADI",
+    "TARKWA"
+  ],
+  "Western North": [
+    "AOWIN",
+    "BIA EAST",
+    "BIA WEST",
+    "BIBIANI-ANHWIASO-BEKWAI",
+    "BODI",
+    "JUABOSO",
+    "SEFWI-AKONTOMBRA",
+    "SEFWI-WIAWSO",
+    "SUAMAN"
+  ]
+}

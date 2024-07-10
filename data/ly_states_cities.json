@@ -1,0 +1,36 @@
+{
+  "Al Wahat District": [
+    "AJDABIYA",
+    "AL BURAYQAH",
+    "AWJILAH",
+    "AZ ZUWAYTĪNAH",
+    "GIALO",
+    "MARĀDAH"
+  ],
+  "Benghazi": ["BENGHAZI", "QARYAT SULŪQ"],
+  "Derna District": ["AL QUBBAH", "DARNAH"],
+  "Ghat District": ["GHAT"],
+  "Jabal al Akhdar": ["AL BAYḐĀ’"],
+  "Jabal al Gharbi District": [
+    "GHARYAN",
+    "GIADO",
+    "MIZDAH",
+    "YAFRAN",
+    "ZINTAN"
+  ],
+  "Jafara": ["AL ‘AZĪZĪYAH"],
+  "Jufra": ["HŪN", "WADDĀN"],
+  "Kufra District": ["AL JAWF", "AT TĀJ"],
+  "Marj District": ["AL ABYĀR", "AL MARJ", "TŪKRAH"],
+  "Misrata District": ["BANI WALID", "MIŞRĀTAH", "ZLITEN"],
+  "Murqub": ["AL KHUMS", "MASALLĀTAH", "TARHUNA"],
+  "Murzuq District": ["AL QAŢRŪN", "MURZUQ"],
+  "Nalut District": ["GHADĀMIS", "NĀLŪT"],
+  "Nuqat al Khams": ["AL AJAYLAT", "ZALŢAN", "ZUWĀRAH"],
+  "Sabha District": ["AL JADĪD", "SABHĀ"],
+  "Sirte District": ["QASR ABU HADI", "SIRTE"],
+  "Tripoli District": ["TAGIURA", "TRIPOLI"],
+  "Wadi al Hayaa District": ["UBARI"],
+  "Wadi al Shatii District": ["BRAK", "IDRĪ"],
+  "Zawiya District": ["AZ ZĀWĪYAH", "ŞABRĀTAH", "ŞURMĀN", "ZAWIYA"]
+}

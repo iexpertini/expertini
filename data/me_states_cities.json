@@ -1,0 +1,30 @@
+{
+  "Andrijevica Municipality": ["ANDRIJEVICA"],
+  "Bar Municipality": ["BAR", "STARI BAR", "ŠUŠANJ", "SUTOMORE"],
+  "Berane Municipality": ["BERANE"],
+  "Bijelo Polje Municipality": ["BIJELO POLJE"],
+  "Budva Municipality": ["BUDVA", "PETROVAC NA MORU"],
+  "Danilovgrad Municipality": ["DANILOVGRAD", "SPUŽ"],
+  "Gusinje Municipality": ["GUSINJE"],
+  "Kolašin Municipality": ["KOLAŠIN"],
+  "Kotor Municipality": ["DOBROTA", "KOTOR", "PRČANJ", "RISAN"],
+  "Mojkovac Municipality": ["MOJKOVAC"],
+  "Nikšić Municipality": ["NIKŠIĆ"],
+  "Old Royal Capital Cetinje": ["CETINJE"],
+  "Plav Municipality": ["PLAV"],
+  "Pljevlja Municipality": ["PLJEVLJA"],
+  "Plužine Municipality": ["PLUŽINE"],
+  "Podgorica Municipality": [
+    "GOLUBOVCI",
+    "GORIČANI",
+    "MATAGUŽI",
+    "MOJANOVIĆI",
+    "PODGORICA",
+    "TUZI"
+  ],
+  "Rožaje Municipality": ["ROŽAJE"],
+  "Šavnik Municipality": ["ŠAVNIK"],
+  "Tivat Municipality": ["TIVAT"],
+  "Ulcinj Municipality": ["ULCINJ"],
+  "Žabljak Municipality": ["ŽABLJAK"]
+}

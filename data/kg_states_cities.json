@@ -1,0 +1,61 @@
+{
+  "Batken Region": [
+    "AYDARKEN",
+    "BATKEN",
+    "IRADAN",
+    "ISFANA",
+    "KARAVAN",
+    "KYZYL-KYYA",
+    "SULUKTU"
+  ],
+  "Bishkek": ["BISHKEK"],
+  "Chuy Region": [
+    "ALAMUDUNSKIY RAYON",
+    "BELOVODSKOYE",
+    "CHUYSKIY RAYON",
+    "IVANOVKA",
+    "KAINDY",
+    "KANT",
+    "KARA-BALTA",
+    "KEMIN",
+    "LEBEDINOVKA",
+    "SOKULUKSKIY RAYON",
+    "SOSNOVKA",
+    "TOKMOK",
+    "YSYK-ATA"
+  ],
+  "Issyk-Kul Region": [
+    "AK-SUU",
+    "BALYKCHY",
+    "CHOLPON-ATA",
+    "KADZHI-SAY",
+    "KARAKOL",
+    "KYZYL-SUU",
+    "TYUP"
+  ],
+  "Jalal-Abad Region": [
+    "ALA-BUKA",
+    "BAZAR-KORGON",
+    "JALAL-ABAD",
+    "KAZARMAN",
+    "KERBEN",
+    "KOCHKOR-ATA",
+    "SUZAK",
+    "TASH-KUMYR",
+    "TOKTOGUL",
+    "TOKTOGUL DISTRICT"
+  ],
+  "Naryn Region": ["AT-BASHI", "JUMGAL", "NARYN"],
+  "Osh Region": [
+    "CHONG-ALAY DISTRICT",
+    "DAROOT-KORGON",
+    "KARA KULJA",
+    "KARA SUU",
+    "KYZYL-ESHME",
+    "NOOKAT",
+    "OSH",
+    "UZGEN",
+    "UZGEN DISTRICT"
+  ],
+  "Talas Region": ["KARA-BUURINSKIY RAYON", "TALAS", "TALASSKIY RAYON"]
+}

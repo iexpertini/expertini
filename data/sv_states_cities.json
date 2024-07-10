@@ -1,0 +1,120 @@
+{
+  "Ahuachapán Department": [
+    "AHUACHAPÁN",
+    "ATIQUIZAYA",
+    "CONCEPCIÓN DE ATACO",
+    "GUAYMANGO",
+    "JUJUTLA",
+    "SAN FRANCISCO MENÉNDEZ",
+    "TACUBA"
+  ],
+  "Cabañas Department": ["SENSUNTEPEQUE", "VICTORIA"],
+  "Chalatenango Department": ["CHALATENANGO", "NUEVA CONCEPCIÓN"],
+  "Cuscatlán Department": [
+    "COJUTEPEQUE",
+    "SAN MARTÍN",
+    "SUCHITOTO",
+    "TECOLUCA",
+    "TENANCINGO"
+  ],
+  "La Libertad Department": [
+    "ANTIGUO CUSCATLÁN",
+    "CIUDAD ARCE",
+    "LA LIBERTAD",
+    "NUEVO CUSCATLÁN",
+    "QUEZALTEPEQUE",
+    "SAN JUAN OPICO",
+    "SAN PABLO TACACHICO",
+    "SANTA TECLA",
+    "ZARAGOZA"
+  ],
+  "La Paz Department": [
+    "EL ROSARIO",
+    "OLOCUILTA",
+    "SAN PEDRO MASAHUAT",
+    "SANTIAGO NONUALCO",
+    "ZACATECOLUCA"
+  ],
+  "La Unión Department": [
+    "ANAMORÓS",
+    "CONCHAGUA",
+    "INTIPUCÁ",
+    "LA UNIÓN",
+    "NUEVA ESPARTA",
+    "PASAQUINA",
+    "SAN ALEJO",
+    "SANTA ROSA DE LIMA"
+  ],
+  "Morazán Department": [
+    "CACAOPERA",
+    "CORINTO",
+    "GUATAJIAGUA",
+    "JOCORO",
+    "SAN FRANCISCO",
+    "SOCIEDAD"
+  ],
+  "San Miguel Department": [
+    "CHAPELTIQUE",
+    "CHINAMECA",
+    "CHIRILAGUA",
+    "CIUDAD BARRIOS",
+    "EL TRÁNSITO",
+    "LOLOTIQUE",
+    "MONCAGUA",
+    "NUEVA GUADALUPE",
+    "SAN MIGUEL",
+    "SAN RAFAEL ORIENTE",
+    "SESORI"
+  ],
+  "San Salvador Department": [
+    "AGUILARES",
+    "APOPA",
+    "AYUTUXTEPEQUE",
+    "CUSCATANCINGO",
+    "DELGADO",
+    "EL PAISNAL",
+    "GUAZAPA",
+    "ILOPANGO",
+    "MEJICANOS",
+    "PANCHIMALCO",
+    "ROSARIO DE MORA",
+    "SAN MARCOS",
+    "SAN SALVADOR",
+    "SANTO TOMÁS",
+    "SOYAPANGO",
+    "TONACATEPEQUE"
+  ],
+  "San Vicente Department": ["APASTEPEQUE", "SAN SEBASTIÁN", "SAN VICENTE"],
+  "Santa Ana Department": [
+    "CANDELARIA DE LA FRONTERA",
+    "CHALCHUAPA",
+    "COATEPEQUE",
+    "EL CONGO",
+    "METAPÁN",
+    "SANTA ANA",
+    "TEXISTEPEQUE"
+  ],
+  "Sonsonate Department": [
+    "ACAJUTLA",
+    "ARMENIA",
+    "IZALCO",
+    "JUAYÚA",
+    "NAHUIZALCO",
+    "SAN ANTONIO DEL MONTE",
+    "SONSONATE",
+    "SONZACATE"
+  ],
+  "Usulután Department": [
+    "BERLÍN",
+    "CONCEPCIÓN BATRES",
+    "JIQUILISCO",
+    "JUCUAPA",
+    "JUCUARÁN",
+    "OZATLÁN",
+    "PUERTO EL TRIUNFO",
+    "SAN AGUSTÍN",
+    "SANTA ELENA",
+    "SANTIAGO DE MARÍA",
+    "USULUTÁN"
+  ]
+}

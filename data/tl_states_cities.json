@@ -1,0 +1,47 @@
+{
+  "Aileu municipality": ["AILEU", "LEQUIDOE", "REMEXIO"],
+  "Ainaro Municipality": ["AINARO", "HATO-UDO"],
+  "Baucau Municipality": [
+    "BAGUIA",
+    "BAUCAU",
+    "BAUKAU",
+    "LAGA",
+    "QUELICAI",
+    "VEMASSE",
+    "VENILALE"
+  ],
+  "Bobonaro Municipality": ["MALIANA"],
+  "Cova Lima Municipality": [
+    "FATUMEAN",
+    "FOHOREM",
+    "MAUCATAR",
+    "SUAI",
+    "TILOMAR"
+  ],
+  "Dili municipality": ["ATAURO ISLAND", "CRISTO REI", "DILI", "METINARO"],
+  "Ermera District": [
+    "ERMERA VILLA",
+    "GLENO",
+    "HATULIA",
+    "LETEFOHO",
+    "RAILACO"
+  ],
+  "Lautém Municipality": ["ILIOMAR", "LAUTEM", "LOSPALOS", "LURO", "TUTUALA"],
+  "Liquiçá Municipality": ["BAZARTETE", "LIKISÁ", "MAUBARA"],
+  "Manatuto District": [
+    "BARIQUE",
+    "LACLO",
+    "LACLUBAR",
+    "MANATUTO",
+    "MANATUTU",
+    "SOIBADA"
+  ],
+  "Manufahi Municipality": ["ALAS", "FATUBERLIU", "SAME", "TURISCAI"],
+  "Viqueque Municipality": [
+    "LACLUTA",
+    "OSSU",
+    "UATOCARABAU",
+    "UATOLARI",
+    "VIQUEQUE"
+  ]
+}

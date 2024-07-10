@@ -1,0 +1,15 @@
+{
+  "Centrale Region": ["SOKODÉ", "SOTOUBOUA", "TCHAMBA"],
+  "Kara Region": [
+    "BAFILO",
+    "BASSAR",
+    "KANDÉ",
+    "KARA",
+    "NIAMTOUGOU",
+    "PAGOUDA",
+    "PRÉFECTURE DE BASSAR"
+  ],
+  "Maritime": ["ANÉHO", "LOMÉ", "TABLIGBO", "TSÉVIÉ", "VOGAN"],
+  "Plateaux Region": ["AMLAMÉ", "ATAKPAMÉ", "BADOU", "KPALIMÉ", "NOTSÉ"],
+  "Savanes Region": ["DAPAONG", "SANSANNÉ-MANGO"]
+}

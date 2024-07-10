@@ -1,0 +1,250 @@
+{
+  "Azua Province": [
+    "AZUA",
+    "EL GUAYABAL",
+    "ESTEBANÍA",
+    "LAS CHARCAS",
+    "PADRE LAS CASAS",
+    "PALMAR DE OCOA",
+    "PERALTA",
+    "PUEBLO VIEJO",
+    "SABANA YEGUA",
+    "TÁBARA ARRIBA",
+    "VILLARPANDO",
+    "YAYAS DE VIAJAMA"
+  ],
+  "Baoruco Province": [
+    "EL PALMAR",
+    "GALVÁN",
+    "LA UVILLA",
+    "LOS RÍOS",
+    "NEIBA",
+    "TAMAYO",
+    "VILLA JARAGUA"
+  ],
+  "Barahona Province": [
+    "CABRAL",
+    "CACHÓN",
+    "CANOA",
+    "EL PEÑÓN",
+    "ENRIQUILLO",
+    "FUNDACIÓN",
+    "JAQUIMEYES",
+    "LA CIÉNAGA",
+    "LAS SALINAS",
+    "PARAÍSO",
+    "PESCADERÍA",
+    "POLO",
+    "SANTA CRUZ DE BARAHONA",
+    "VICENTE NOBLE"
+  ],
+  "Dajabón Province": [
+    "DAJABÓN",
+    "EL PINO",
+    "LOMA DE CABRERA",
+    "PARTIDO",
+    "RESTAURACIÓN"
+  ],
+  "Distrito Nacional": [
+    "BELLA VISTA",
+    "CIUDAD NUEVA",
+    "CRISTO REY",
+    "ENSANCHE LUPERÓN",
+    "LA AGUSTINA",
+    "LA JULIA",
+    "SAN CARLOS",
+    "SANTO DOMINGO",
+    "VILLA CONSUELO",
+    "VILLA FRANCISCA"
+  ],
+  "Duarte Province": [
+    "AGUA SANTA DEL YUNA",
+    "ARENOSO",
+    "CASTILLO",
+    "HOSTOS",
+    "LAS GUÁRANAS",
+    "PIMENTEL",
+    "SAN FRANCISCO DE MACORÍS",
+    "VILLA RIVA"
+  ],
+  "El Seibo Province": ["MICHES", "PEDRO SÁNCHEZ", "SANTA CRUZ DE EL SEIBO"],
+  "Espaillat Province": [
+    "CAYETANO GERMOSÉN",
+    "GASPAR HERNÁNDEZ",
+    "JAMAO AL NORTE",
+    "JOBA ARRIBA",
+    "JUAN LÓPEZ ABAJO",
+    "MOCA",
+    "SAN VÍCTOR ARRIBA",
+    "VERAGUA ARRIBA"
+  ],
+  "Hato Mayor Province": [
+    "EL VALLE",
+    "GUAYABO DULCE",
+    "HATO MAYOR DEL REY",
+    "SABANA DE LA MAR"
+  ],
+  "Hermanas Mirabal Province": [
+    "SALCEDO",
+    "SALSIPUEDES",
+    "TENARES",
+    "VILLA TAPIA"
+  ],
+  "Independencia": [
+    "CRISTÓBAL",
+    "DUVERGÉ",
+    "GUAYABAL",
+    "JIMANÍ",
+    "LA DESCUBIERTA",
+    "MELLA",
+    "POSTRER RÍO"
+  ],
+  "La Altagracia Province": [
+    "BOCA DE YUMA",
+    "HIGÜEY",
+    "OTRA BANDA",
+    "PUNTA CANA",
+    "SALVALEÓN DE HIGÜEY",
+    "SAN RAFAEL DEL YUMA"
+  ],
+  "La Romana Province": ["GUAYMATE", "LA ROMANA"],
+  "La Vega Province": [
+    "CONCEPCIÓN DE LA VEGA",
+    "CONSTANZA",
+    "JARABACOA",
+    "JIMA ABAJO",
+    "RINCÓN",
+    "RÍO VERDE ARRIBA",
+    "TIREO ARRIBA"
+  ],
+  "María Trinidad Sánchez Province": [
+    "ARROYO SALADO",
+    "CABRERA",
+    "EL FACTOR",
+    "LA ENTRADA",
+    "NAGUA",
+    "RÍO SAN JUAN"
+  ],
+  "Monseñor Nouel Province": [
+    "BONAO",
+    "JUAN ADRIÁN",
+    "MAIMÓN",
+    "PIEDRA BLANCA",
+    "SABANA DEL PUERTO"
+  ],
+  "Monte Cristi Province": [
+    "CANA CHAPETÓN",
+    "CASTAÑUELAS",
+    "GUAYUBÍN",
+    "HATILLO PALMA",
+    "LAS MATAS DE SANTA CRUZ",
+    "MONTE CRISTI",
+    "PEPILLO SALCEDO",
+    "SAN FERNANDO DE MONTE CRISTI",
+    "VILLA ELISA",
+    "VILLA VÁSQUEZ"
+  ],
+  "Monte Plata Province": [
+    "BAYAGUANA",
+    "DON JUAN",
+    "ESPERALVILLO",
+    "GONZALO",
+    "LOS BOTADOS",
+    "MAJAGUAL",
+    "MONTE PLATA",
+    "SABANA GRANDE DE BOYÁ",
+    "YAMASÁ"
+  ],
+  "Pedernales Province": ["JUANCHO", "OVIEDO", "PEDERNALES"],
+  "Peravia Province": [
+    "BANÍ",
+    "MATANZAS",
+    "NIZAO",
+    "PAYA",
+    "PIZARRETE",
+    "SABANA BUEY"
+  ],
+  "Puerto Plata Province": [
+    "ALTAMIRA",
+    "CABARETE",
+    "ESTERO HONDO",
+    "GUANANICO",
+    "IMBERT",
+    "LOS HIDALGOS",
+    "LUPERÓN",
+    "MONTE LLANO",
+    "PUERTO PLATA",
+    "RÍO GRANDE",
+    "SOSÚA",
+    "VILLA ISABELA"
+  ],
+  "Samaná Province": ["LAS TERRENAS", "SAMANÁ", "SÁNCHEZ"],
+  "San Cristóbal Province": [
+    "BAJOS DE HAINA",
+    "CAMBITA GARABITOS",
+    "EL CACAO",
+    "EL CARRIL",
+    "SABANA GRANDE DE PALENQUE",
+    "SAN CRISTÓBAL",
+    "SAN GREGORIO DE NIGUA",
+    "VILLA ALTAGRACIA",
+    "YAGUATE"
+  ],
+  "San José de Ocoa Province": ["SAN JOSÉ DE OCOA"],
+  "San Juan Province": [
+    "BOHECHÍO",
+    "CERCADO ABAJO",
+    "EL CERCADO",
+    "JUAN DE HERRERA",
+    "LAS MATAS DE FARFÁN",
+    "MATAYAYA",
+    "PEDRO CORTO",
+    "SAN JUAN DE LA MAGUANA",
+    "VALLEJUELO"
+  ],
+  "San Pedro de Macorís": [
+    "EL PUERTO",
+    "LOS LLANOS",
+    "QUISQUEYA",
+    "RAMÓN SANTANA",
+    "SAN PEDRO DE MACORÍS"
+  ],
+  "Sánchez Ramírez Province": ["CEVICOS", "COTUÍ", "FANTINO"],
+  "Santiago Province": [
+    "BAITOA",
+    "BISONÓ",
+    "JUNCALITO ABAJO",
+    "LA CANELA",
+    "LICEY AL MEDIO",
+    "PALMAR ARRIBA",
+    "PEDRO GARCÍA",
+    "SABANA IGLESIA",
+    "SAN JOSÉ DE LAS MATAS",
+    "SANTIAGO DE LOS CABALLEROS",
+    "SANTO TOMÁS DE JÁNICO",
+    "TAMBORIL",
+    "VILLA BISONÓ",
+    "VILLA GONZÁLEZ"
+  ],
+  "Santiago Rodríguez Province": [
+    "MONCIÓN",
+    "SABANETA",
+    "SAN IGNACIO DE SABANETA"
+  ],
+  "Santo Domingo Province": [
+    "BOCA CHICA",
+    "SANTO DOMINGO ESTE",
+    "SANTO DOMINGO OESTE"
+  ],
+  "Valverde Province": [
+    "AMINA",
+    "ESPERANZA",
+    "GUATAPANAL",
+    "JAIBÓN",
+    "JICOMÉ",
+    "LA CAYA",
+    "LAGUNA SALADA",
+    "MAIZAL",
+    "MAO"
+  ]
+}

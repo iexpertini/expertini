@@ -1,0 +1,102 @@
+{
+  "Abidjan": ["ABIDJAN", "ABOBO", "ANYAMA", "BINGERVILLE"],
+  "Bas-Sassandra District": [
+    "GBÔKLÉ",
+    "NAWA",
+    "SAN-PÉDRO",
+    "SASSANDRA",
+    "TABOU"
+  ],
+  "Comoé District": [
+    "ABENGOUROU",
+    "ABOISSO",
+    "ADIAKÉ",
+    "AGNIBILÉKROU",
+    "AYAMÉ",
+    "BONOUA",
+    "GRAND-BASSAM",
+    "INDÉNIÉ-DJUABLIN",
+    "SUD-COMOÉ"
+  ],
+  "Denguélé District": ["FOLON", "KABADOUGOU", "ODIENNÉ"],
+  "Dix-Huit Montagnes": [
+    "BANGOLO",
+    "BIANKOUMA",
+    "CAVALLY",
+    "DANANÉ",
+    "DUEKOUÉ",
+    "GUÉMON",
+    "GUIGLO",
+    "MAN",
+    "TONKPI",
+    "TOULÉPLEU GUERÉ"
+  ],
+  "Gôh-Djiboua District": [
+    "DIVO",
+    "GAGNOA",
+    "GÔH",
+    "GUIBÉROUA",
+    "LAKOTA",
+    "LÔH-DJIBOUA",
+    "OUMÉ"
+  ],
+  "Lacs Region": [
+    "ARRAH",
+    "BÉLIER",
+    "BOCANDA",
+    "BONGOUANOU",
+    "DAOUKRO",
+    "DIMBOKRO",
+    "IFFOU",
+    "MORONOU",
+    "N'ZI",
+    "TOUMODI",
+    "YAMOUSSOUKRO"
+  ],
+  "Lagunes region": [
+    "ADZOPÉ",
+    "AFFERY",
+    "AGBOVILLE",
+    "AGNÉBY-TIASSA",
+    "AKOUPÉ",
+    "DABOU",
+    "GRAND-LAHOU",
+    "GRANDS-PONTS",
+    "TIASSALÉ"
+  ],
+  "Sassandra-Marahoué District": [
+    "BOUAFLÉ",
+    "DALOA",
+    "HAUT-SASSANDRA",
+    "ISSIA",
+    "MARAHOUÉ",
+    "VAVOUA",
+    "ZUÉNOULA"
+  ],
+  "Vallée du Bandama Region": [
+    "BÉOUMI",
+    "BOTRO",
+    "BOUAKÉ",
+    "DABAKALA",
+    "GBÊKÊ",
+    "HAMBOL",
+    "KATIOLA",
+    "SAKASSOU"
+  ],
+  "Woroba District": [
+    "BAFING",
+    "BÉRÉ",
+    "MANKONO",
+    "SÉGUÉLA",
+    "TOUBA",
+    "WORODOUGOU"
+  ],
+  "Zanzan Region": [
+    "BONDOUKOU",
+    "BOUNA",
+    "BOUNKANI",
+    "GONTOUGO",
+    "SINFRA",
+    "TANDA"
+  ]
+}

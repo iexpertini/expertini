@@ -1,0 +1,81 @@
+{
+  "Badakhshan": [
+    "ASHKĀSHAM",
+    "FAYZABAD",
+    "JURM",
+    "KHANDŪD",
+    "RĀGHISTĀN",
+    "WĀKHĀN"
+  ],
+  "Badghis": ["GHORMACH", "QALA I NAW"],
+  "Baghlan": ["BAGHLĀN", "ḨUKŪMATĪ DAHANAH-YE GHŌRĪ", "NAHRĪN", "PUL-E KHUMRĪ"],
+  "Balkh": [
+    "BALKH",
+    "DOWLATĀBĀD",
+    "KHULM",
+    "LAB-SAR",
+    "MAZĀR-E SHARĪF",
+    "QARCHĪ GAK"
+  ],
+  "Bamyan": ["BĀMYĀN", "PANJĀB"],
+  "Daykundi": ["NĪLĪ"],
+  "Farah": ["FARAH"],
+  "Faryab": ["ANDKHOY", "MAYMANA"],
+  "Ghazni": ["GHAZNI"],
+  "Ghōr": ["FAYRŌZ KŌH", "SHAHRAK"],
+  "Helmand": [
+    "‘ALĀQAHDĀRĪ DĪSHŪ",
+    "GERESHK",
+    "LASHKAR GĀH",
+    "MARKAZ-E ḨUKŪMAT-E DARWĒSHĀN",
+    "SANGĪN"
+  ],
+  "Herat": [
+    "CHAHĀR BURJ",
+    "GHŌRIYĀN",
+    "HERĀT",
+    "KAFIR QALA",
+    "KARUKH",
+    "KUHSĀN",
+    "KUSHK",
+    "QARAH BĀGH",
+    "SHĪNḎANḎ",
+    "TĪR PUL",
+    "ZINDAH JĀN"
+  ],
+  "Jowzjan": ["ĀQCHAH", "DARZĀB", "QARQĪN", "SHIBIRGHĀN"],
+  "Kabul": ["KABUL", "MĪR BACHAH KŌṮ", "PAGHMĀN"],
+  "Kandahar": ["KANDAHĀR"],
+  "Kapisa": ["SIDQĀBĀD"],
+  "Khost": ["KHŌST"],
+  "Kunar": ["ASADABAD", "ĀSMĀR"],
+  "Kunduz Province": [
+    "DASHT-E ARCHĪ",
+    "IMĀM ŞĀḨIB",
+    "KHANABAD",
+    "KUNDUZ",
+    "QARĀWUL"
+  ],
+  "Laghman": ["MEHTAR LĀM"],
+  "Logar": ["BARAKI BARAK", "ḨUKŪMATĪ AZRAH", "PUL-E ‘ALAM"],
+  "Nangarhar": ["BĀSAWUL", "JALĀLĀBĀD", "MARKAZ-E WOLUSWALĪ-YE ĀCHĪN"],
+  "Nimruz": ["KHĀSH", "MĪRĀBĀD", "RŪDBĀR", "ZARANJ"],
+  "Nuristan": ["PĀRŪN"],
+  "Paktia": ["GARDEZ"],
+  "Paktika": ["SAṞŌBĪ", "ZAṞAH SHARAN", "ZARGHŪN SHAHR"],
+  "Panjshir": ["BĀZĀRAK"],
+  "Parwan": ["CHARIKAR", "JABAL OS SARAJ"],
+  "Samangan": ["AĪBAK"],
+  "Sar-e Pol": [
+    "CHĪRAS",
+    "LARKIRD",
+    "QAL‘AH-YE SHAHR",
+    "SANG-E CHĀRAK",
+    "SAR-E PUL",
+    "TAGĀW-BĀY",
+    "TUKZĀR"
+  ],
+  "Takhar": ["ĀRT KHWĀJAH", "TALOQAN"],
+  "Urozgan": ["TARINKOT", "URUZGĀN"],
+  "Zabul": ["QALĀT"]
+}

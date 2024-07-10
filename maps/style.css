@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 20%;
+  padding: 10px; /* Should be removed. Only for demonstration */
+}
+h2 {
+  font-size: 15px !important;
+  line-height: 15px;
+  letter-spacing: 1px;
+  margin: 0px 0px 15px 0px;
+}
+.mg {
+  font-size: 100px;
+  display: inline-block;
+  font-family: 'MapGlyphs';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+

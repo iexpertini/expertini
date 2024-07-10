@@ -1,0 +1,167 @@
+{
+  "Alexandria": [
+    "ABU QIR",
+    "AGAMI",
+    "ALEXANDRIA",
+    "AR-RAML",
+    "BORG EL ARAB",
+    "MONTAZA",
+    "NEW BORG EL ARAB",
+    "SIDI BISHR"
+  ],
+  "Aswan": ["ABU SIMBEL", "ASWAN", "IDFŪ", "KAWM UMBŪ"],
+  "Asyut": [
+    "ABNŪB",
+    "ABŪ TĪJ",
+    "AL BADĀRĪ",
+    "AL QŪŞĪYAH",
+    "ASYŪŢ",
+    "DAYRŪŢ",
+    "MANFALŪŢ"
+  ],
+  "Beheira": [
+    "ABŪ AL MAŢĀMĪR",
+    "AD DILINJĀT",
+    "DAMANHŪR",
+    "ḨAWSH ‘ĪSÁ",
+    "IDKŪ",
+    "KAFR AD DAWWĀR",
+    "KAWM ḨAMĀDAH",
+    "ROSETTA"
+  ],
+  "Beni Suef": ["AL FASHN", "BANĪ SUWAYF", "BŪSH", "SUMUSŢĀ AS SULŢĀNĪ"],
+  "Cairo": [
+    "BADR",
+    "BULAQ",
+    "CAIRO",
+    "EL MATARIA",
+    "FUSTAT",
+    "HADAYEK EL KOBBA",
+    "HELIOPOLIS",
+    "HELWAN",
+    "MAADI",
+    "MUSTURUD",
+    "NEW ADMINISTRATIVE CAPITAL OF EGYPT",
+    "SHUBRA",
+    "TURA"
+  ],
+  "Dakahlia": [
+    "‘IZBAT AL BURJ",
+    "AJĀ",
+    "AL JAMMĀLĪYAH",
+    "AL MANŞŪRAH",
+    "AL MANZALAH",
+    "AL MAŢARĪYAH",
+    "BILQĀS",
+    "DIKIRNIS",
+    "MINYAT AN NAŞR",
+    "SHIRBĪN",
+    "ŢALKHĀ"
+  ],
+  "Damietta": ["AZ ZARQĀ", "DAMIETTA", "FĀRASKŪR"],
+  "Faiyum": ["AL FAYYŪM", "AL WĀSIŢAH", "IBSHAWĀY", "IŢSĀ", "ŢĀMIYAH"],
+  "Gharbia": [
+    "AL MAḨALLAH AL KUBRÁ",
+    "BASYŪN",
+    "KAFR AZ ZAYYĀT",
+    "QUŢŪR",
+    "SAMANNŪD",
+    "TANDA",
+    "ZEFTA"
+  ],
+  "Giza": [
+    "AL ‘AYYĀŢ",
+    "AL BAWĪŢĪ",
+    "AL ḨAWĀMIDĪYAH",
+    "AŞ ŞAFF",
+    "AWSĪM",
+    "GIZA",
+    "MADĪNAT SITTAH UKTŪBAR"
+  ],
+  "Ismailia": ["ISMAILIA"],
+  "Kafr el-Sheikh": [
+    "AL ḨĀMŪL",
+    "DISŪQ",
+    "FUWWAH",
+    "KAFR ASH SHAYKH",
+    "MARKAZ DISŪQ",
+    "MUNSHĀT ‘ALĪ ĀGHĀ",
+    "SĪDĪ SĀLIM"
+  ],
+  "Luxor": ["LUXOR", "MARKAZ AL UQŞUR"],
+  "Matrouh": ["AL ‘ALAMAYN", "MERSA MATRUH", "SIWA OASIS"],
+  "Minya": [
+    "ABŪ QURQĀŞ",
+    "AL MINYĀ",
+    "BANĪ MAZĀR",
+    "DAYR MAWĀS",
+    "MALLAWĪ",
+    "MAŢĀY",
+    "SAMĀLŪŢ"
+  ],
+  "Monufia": [
+    "AL BĀJŪR",
+    "ASH SHUHADĀ’",
+    "ASHMŪN",
+    "MUNŪF",
+    "QUWAYSINĀ",
+    "SHIBĪN AL KAWM",
+    "TALĀ"
+  ],
+  "New Valley": ["AL KHĀRIJAH", "QAŞR AL FARĀFIRAH"],
+  "North Sinai": ["ARISH"],
+  "Port Said": ["PORT SAID"],
+  "Qalyubia": [
+    "AL KHĀNKAH",
+    "AL QANĀŢIR AL KHAYRĪYAH",
+    "BANHĀ",
+    "QALYŪB",
+    "SHIBĪN AL QANĀṬIR",
+    "TOUKH"
+  ],
+  "Qena": ["DISHNĀ", "FARSHŪŢ", "ISNĀ", "KOUSA", "NAJA' ḤAMMĀDĪ", "QINĀ"],
+  "Red Sea": [
+    "AL QUŞAYR",
+    "EL GOUNA",
+    "HURGHADA",
+    "MAKADI BAY",
+    "MARSA ALAM",
+    "RAS GHARIB",
+    "SAFAGA"
+  ],
+  "Sharqia": [
+    "10TH OF RAMADAN",
+    "AL QUREIN",
+    "AWLAD SAQR",
+    "BILBEIS",
+    "DIYARB NEGM",
+    "EL HUSSEINIYA",
+    "FAQOUS",
+    "HIHYA",
+    "KAFR SAQR",
+    "MARKAZ ABŪ ḨAMMĀD",
+    "MASHTOUL EL SOUK",
+    "MINYA EL QAMH",
+    "NEW SALHIA",
+    "ZAGAZIG"
+  ],
+  "Sohag": [
+    "AKHMĪM",
+    "AL BALYANĀ",
+    "AL MANSHĀH",
+    "JIRJĀ",
+    "JUHAYNAH",
+    "MARKAZ JIRJĀ",
+    "MARKAZ SŪHĀJ",
+    "SOHAG",
+    "ŢAHŢĀ"
+  ],
+  "South Sinai": [
+    "DAHAB",
+    "EL-TOR",
+    "NUWAYBI‘A",
+    "SAINT CATHERINE",
+    "SHARM EL-SHEIKH"
+  ],
+  "Suez": ["AIN SUKHNA", "SUEZ"]
+}

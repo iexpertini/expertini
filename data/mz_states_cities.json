@@ -1,0 +1,30 @@
+{
+  "Cabo Delgado Province": ["CHIURE", "MOCÍMBOA", "MONTEPUEZ", "PEMBA"],
+  "Gaza Province": ["CHIBUTO", "CHOKWÉ", "MACIA", "XAI-XAI"],
+  "Inhambane Province": ["INHAMBANE", "MAXIXE"],
+  "Manica Province": ["CHIMOIO"],
+  "Maputo": ["KATEMBE", "MAPUTO"],
+  "Maputo Province": [
+    "BOANE DISTRICT",
+    "CONCELHO DE MATOLA",
+    "MAGUDE DISTRICT",
+    "MANHICA",
+    "MARRACUENE DISTRICT",
+    "MATOLA",
+    "MATUTIUNE DISTRICT",
+    "MOAMBA DISTRICT",
+    "NAMAACHA DISTRICT",
+    "RESSANO GARCIA"
+  ],
+  "Nampula Province": [
+    "ANTÓNIO ENES",
+    "ILHA DE MOÇAMBIQUE",
+    "MUTUÁLI",
+    "NACALA",
+    "NAMPULA"
+  ],
+  "Niassa Province": ["CUAMBA", "LICHINGA", "MANDIMBA"],
+  "Sofala Province": ["BEIRA", "DONDO", "NHAMATANDA DISTRICT"],
+  "Tete Province": ["TETE"],
+  "Zambezia Province": ["ALTO MOLÓCUÈ", "CHINDE", "QUELIMANE"]
+}

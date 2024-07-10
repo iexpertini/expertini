@@ -1,0 +1,17 @@
+{
+  "Estuaire Province": ["COCOBEACH", "LIBREVILLE", "NTOUM"],
+  "Haut-Ogooué Province": [
+    "FRANCEVILLE",
+    "LÉKONI",
+    "MOANDA",
+    "MOUNANA",
+    "OKONDJA"
+  ],
+  "Moyen-Ogooué Province": ["LAMBARÉNÉ", "NDJOLÉ"],
+  "Ngounié Province": ["FOUGAMOU", "MBIGOU", "MIMONGO", "MOUILA", "NDENDÉ"],
+  "Nyanga Province": ["MAYUMBA", "TCHIBANGA"],
+  "Ogooué-Ivindo Province": ["BOOUÉ", "MAKOKOU", "ZADIE"],
+  "Ogooué-Lolo Province": ["KOULAMOUTOU", "LASTOURSVILLE"],
+  "Ogooué-Maritime Province": ["GAMBA", "OMBOUÉ", "PORT-GENTIL"],
+  "Woleu-Ntem Province": ["BITAM", "MITZIC", "OYEM"]
+}

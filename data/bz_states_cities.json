@@ -1,0 +1,13 @@
+{
+  "Belize District": ["BELIZE CITY", "SAN PEDRO"],
+  "Cayo District": [
+    "BELMOPAN",
+    "BENQUE VIEJO EL CARMEN",
+    "SAN IGNACIO",
+    "VALLEY OF PEACE"
+  ],
+  "Corozal District": ["COROZAL"],
+  "Orange Walk District": ["HOPELCHÉN", "ORANGE WALK", "SHIPYARD"],
+  "Stann Creek District": ["DANGRIGA", "PLACENCIA"],
+  "Toledo District": ["PUNTA GORDA"]
+}
